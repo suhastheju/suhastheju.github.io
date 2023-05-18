@@ -83,11 +83,11 @@ author:
   name             : "Suhas Thejaswi"
   avatar           : "profile.png"
   bio              : "Post-doctoral researcher"
-  location         : "Kaiserslautern, Germany"
-  employer         :
+  location         : #"Kaiserslautern, Germany"
+  employer         : "Max Planck Institute for Software Systems"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "thejaswi@mpi-sws.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
