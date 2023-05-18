@@ -83,7 +83,7 @@ author:
   name             : "Suhas Thejaswi"
   avatar           : "profile.png"
   bio              : "Post-doctoral researcher"
-  location         : "Germany"
+  location         : #"Germany"
   employer         : "MPI-SWS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao"
