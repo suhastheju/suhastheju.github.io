@@ -47,7 +47,7 @@ Research experience
 
 Research visits
 ======
-* May 2022 - June 2022: Visting researcher
+* **Visiting researcher:** May 2022 - Jun 2022
   * Queen Mary University of London, UK
   * Host: [Dr. Bruno Ordozgoiti](https://justbruno.github.io/)
 
