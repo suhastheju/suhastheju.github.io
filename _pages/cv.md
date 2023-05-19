@@ -43,7 +43,8 @@ Research experience
   * Supervisor: [Prof. Petteri Kaski](http://users.ics.aalto.fi/pkaski/)
 * **Research intern:** Aug 2009 - Feb 2010
   * Defense Research and Development Organisation, India
-  * Supervisor: Gopinath Sosale
+  * Supervisor: [Guru Prasad Sosale
+    Gopinath](https://in.linkedin.com/in/guru-prasad-sosale-gopinath-a75a3222)
 
 Research visits
 ======
@@ -67,12 +68,12 @@ Work experience
 
 Service and leadership
 ======
-* Organizer
+* **Organizer**
   * Local organizing committee member of ALGO, ESA 2018, Helsinki
 
-* Program committee member
+* **Program committee member**
   * WSDM 2023
 
-* Reviewer
+* **Reviewer**
   * Journals: Trans. of KDD, Trans of Web, Algorithmica
   * Conferences: SEA 2019, ESA 2022, STACS 2022, KDD 2023
