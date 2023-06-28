@@ -7,6 +7,8 @@ author_profile: true
 
 You may also review my [Google Scholar profile.](https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao)
 
+- *Fair column subset selection*.<br> Antonios Matakos, Bruno Ordozgoiti, *Suhas Thejaswi* <br>
+
 - *Clustering with fair-center representation: parameterized approximation algorithms and heuristics*. <br> *Suhas Thejaswi*, Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik <br> **In KDD 2022**.
 
 - *Diversity-aware k-median: clustering with fair-center representation*. <br> *Suhas Thejaswi*, Bruno Ordozgoiti, Aristides Gionis<br> In **ECML 2021**.
