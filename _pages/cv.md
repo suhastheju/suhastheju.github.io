@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Aalto University, Finland, 2022
 * M.Sc. in Computer Science, Aalto University, Finland, 2017
-* B.E. in VTU, India, 2009
+* B.Eng. in Computer Science, VTU, India, 2009
 
 Honours / Awards
 ======
@@ -48,7 +48,11 @@ Research experience
 
 Research visits
 ======
-* **Visiting researcher:** May 2022 - Jun 2022
+* **Visiting researcher:** Jan 2023 - August 2023
+  * Aalto University, Finland
+  * Host: [Prof. Aristides Gionis](https://www.kth.se/profile/argioni)
+
+* **Research intern:** May 2022 - Jun 2022
   * Queen Mary University of London, UK
   * Host: [Dr. Bruno Ordozgoiti](https://justbruno.github.io/)
 
@@ -63,8 +67,8 @@ Work experience
   * Worked on telecom call processing systems
 
 * **Software engineer**: Mar 2010 - May 2012
-  * Wipro Technologies, India
-  * Worked at Ericsson Offshore Development Center
+  * Ericsson Offshore Development Center, India
+  * Worked on telecom call processing systems
 
 Service and leadership
 ======
@@ -72,8 +76,8 @@ Service and leadership
   * Local organizing committee member of ALGO, ESA 2018, Helsinki
 
 * **Program committee member**
-  * WSDM 2023
+  * WSDM 2023, WSDM 2024
 
 * **Reviewer**
-  * Journals: Trans. of KDD, Trans of Web, Algorithmica
+  * Journals: ACM Trans. of KDD, ACM Trans. of Web, Algorithmica, JMLR, Trans. of KDE
   * Conferences: SEA 2019, ESA 2022, STACS 2022, KDD 2023

@@ -10,8 +10,9 @@ redirect_from:
 
 I am a post-doctoral researcher at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working with [Dr. Manuel Gomez Rodriguez](https://is.mpg.de/~manuelgr). I obtained my PhD in Computer Science from [Aalto University, Finland](https://www.aalto.fi/en) and my supervisor was [Prof. Aristides Gionis](https://www.kth.se/profile/argioni). 
 
-My research work is focused on various aspects of design and engineering of
-algorithms for problems motivated from social media analysis.
+During my master's studies, I had the opportunity to work as a research assistant at the New Paradigms in Computing Research Group, led by [Prof. Petteri Kaski](https://users.ics.aalto.fi/pkaski/). Additionally, during my bachelor's studies, I interned at [Defence Research and Development Organisation](https://drdo.gov.in/) under the guidence of [Guruprasad Sosale Gopinath](https://in.linkedin.com/in/guru-prasad-sosale-gopinath-a75a3222).
+
+My research work is focused on various aspects of design and engineering of algorithms for problems motivated from societal issues.
 
 - **Algorithmic bias**: Recently, I am motivated to work on design of algorithms that mitigate bias in algorithmic decision making. [ECML 2021](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_47), [KDD 2022](https://dl.acm.org/doi/10.1145/3534678.3539487), [FAIR CSS](https://arxiv.org/abs/2306.04489)
 
@@ -21,5 +22,4 @@ algorithms for problems motivated from social media analysis.
 
 - **Graph mining**: I have gained extensive experience in tackling graph mining problems that find practical applications in social media analysis, contact tracing in epidemic networks, and community detection. [THESIS 2017](https://aaltodoc.aalto.fi/handle/123456789/27940), [SDM 2020](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.5), [BIG DATA 2020](https://www.liebertpub.com/doi/10.1089/big.2020.0078), [SEA 2018](https://drops.dagstuhl.de/opus/volltexte/2018/8963/), [RESTLESS PATH](https://arxiv.org/abs/2010.08423)
 
-- **Parameterized algorithms**: I also possess expertise in designing parameterized algorithms for a diverse set of combinatorial problems. [THESIS 2017](https://aaltodoc.aalto.fi/handle/123456789/27940), [SEA 2018](https://drops.dagstuhl.de/opus/volltexte/2018/8963/), [SDM 2020](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.5), [BIG DATA 2020](https://www.liebertpub.com/doi/10.1089/big.2020.0078), 
-[KDD 2022](https://dl.acm.org/doi/10.1145/3534678.3539487), [RESTLESS PATH](https://arxiv.org/abs/2010.08423)
+- **Parameterized algorithms**: I also possess expertise in designing parameterized algorithms for a diverse set of combinatorial problems. [THESIS 2017](https://aaltodoc.aalto.fi/handle/123456789/27940), [SEA 2018](https://drops.dagstuhl.de/opus/volltexte/2018/8963/), [SDM 2020](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.5), [BIG DATA 2020](https://www.liebertpub.com/doi/10.1089/big.2020.0078), [KDD 2022](https://dl.acm.org/doi/10.1145/3534678.3539487), [RESTLESS PATH](https://arxiv.org/abs/2010.08423)
