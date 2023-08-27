@@ -7,17 +7,16 @@ author_profile: true
 
 You may also review my [Google Scholar profile.](https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao)
 
-- *Fair column subset selection*.<br> Antonios Matakos, Bruno Ordozgoiti, *Suhas Thejaswi* <br>
+- [Fair column subset selection](https://arxiv.org/abs/2306.04489).<br> With Antonios Matakos, Bruno Ordozgoiti <br>
 
-- *Clustering with fair-center representation: parameterized approximation algorithms and heuristics*. <br> *Suhas Thejaswi*, Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik <br> **In KDD 2022**.
+- [Clustering with fair-center representation: parameterized approximation algorithms and heuristics](https://arxiv.org/pdf/2112.07030). <br> With Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik <br> **In KDD 2022**.
 
-- *Diversity-aware k-median: clustering with fair-center representation*. <br> *Suhas Thejaswi*, Bruno Ordozgoiti, Aristides Gionis<br> In **ECML 2021**.
+- [Diversity-aware k-median: clustering with fair-center representation](https://arxiv.org/abs/2106.11696). <br> *Suhas Thejaswi*, Bruno Ordozgoiti, Aristides Gionis<br> In **ECML 2021**.
 
-- *Restless reachability problems in temporal graphs*. <br> *Suhas Thejaswi*, Juho Lauri, Aristides Gionis <br>
+- [Restless reachability problems in temporal graphs](https://arxiv.org/abs/2010.08423). <br> With Juho Lauri, Aristides Gionis <br>
 
-- *Finding path motifs in large temporal graphs using algebraic fingerprints*. <br> *Suhas Thejaswi*, Aristides Gionis, Juho Lauri <br> In **BigData 2020**.
+- [Finding path motifs in large temporal graphs using algebraic fingerprints](https://arxiv.org/abs/2001.07158). <br> With Aristides Gionis, Juho Lauri <br> In **BigData - Special issue on best of SIAM data mining 2020**.
 
-- *Pattern detection in large temporal graphs using algebraic fingerprints*.
-  <br> *Suhas Thejaswi*, Aristides Gionis <br> In **SDM 2020**.
+- [Pattern detection in large temporal graphs using algebraic fingerprints](https://epubs.siam.org/doi/10.1137/1.9781611976236.5). <br> With Aristides Gionis <br> In **SDM 2020** (Best paper candidate).
 
-- *Engineering motif search for large motifs*. <br> Petteri Kaski, Juho Lauri, *Suhas Thejaswi* <br> In **SEA 2020**.
+- [Engineering motif search for large motifs](https://drops.dagstuhl.de/opus/volltexte/2018/8963/). <br> With Petteri Kaski, Juho Lauri <br> In **SEA 2020**.
