@@ -7,11 +7,15 @@ author_profile: true
 
 You may also review my [Google Scholar profile.](https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao)
 
-- [Fair column subset selection](https://arxiv.org/abs/2306.04489).<br> With Antonios Matakos, Bruno Ordozgoiti <br>
+- [Towards human-AI complementarity with predictions sets](https://arxiv.org/abs/2405.17544).<br> With Giovanni De Toni, Nastaran Okati, Eleni Straitouri, Manuel Gomez-Rodriguez<br>
+
+- [Prediction powered ranking of large language models](https://arxiv.org/abs/2402.17826v1).<br> With Evi Chatzi, Eleni Straitouri, Manuel Gomez-Rodriguez<br> **In HEAL CHI Workshop 2024**
+
+- [Fair column subset selection](https://arxiv.org/abs/2306.04489).<br> With Antonios Matakos, Bruno Ordozgoiti <br> **In KDD 2024**
 
 - [Clustering with fair-center representation: parameterized approximation algorithms and heuristics](https://arxiv.org/pdf/2112.07030). <br> With Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik <br> **In KDD 2022**.
 
-- [Diversity-aware k-median: clustering with fair-center representation](https://arxiv.org/abs/2106.11696). <br> *Suhas Thejaswi*, Bruno Ordozgoiti, Aristides Gionis<br> In **ECML 2021**.
+- [Diversity-aware k-median: clustering with fair-center representation](https://arxiv.org/abs/2106.11696). <br> With Bruno Ordozgoiti, Aristides Gionis<br> In **ECML 2021**.
 
 - [Restless reachability problems in temporal graphs](https://arxiv.org/abs/2010.08423). <br> With Juho Lauri, Aristides Gionis <br>
 

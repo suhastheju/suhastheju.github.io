@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working with [Dr. Manuel Gomez Rodriguez](https://is.mpg.de/~manuelgr). I obtained my PhD in Computer Science from [Aalto University, Finland](https://www.aalto.fi/en) and my supervisor was [Prof. Aristides Gionis](https://www.kth.se/profile/argioni). 
+I am a post-doctoral researcher at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/). I obtained my PhD in Computer Science from [Aalto University, Finland](https://www.aalto.fi/en) and my supervisor was [Prof. Aristides Gionis](https://www.kth.se/profile/argioni). 
 
-During my master's studies, I had the opportunity to work as a research assistant at the New Paradigms in Computing Research Group, led by [Prof. Petteri Kaski](https://users.ics.aalto.fi/pkaski/). Additionally, during my bachelor's studies, I interned at [Defence Research and Development Organisation](https://drdo.gov.in/) under the guidence of [Guruprasad Sosale Gopinath](https://in.linkedin.com/in/guru-prasad-sosale-gopinath-a75a3222). I also had the privilege of working with Ericsson, Motorola, and Nokia prior to pursuing my PhD.
+During my master's studies, I had the opportunity to work as a research assistant with [Prof. Petteri Kaski](https://users.ics.aalto.fi/pkaski/). During my bachelor's studies, I interned at [DRDO](https://drdo.gov.in/) under the guidence of [Guruprasad Sosale Gopinath](https://in.linkedin.com/in/guru-prasad-sosale-gopinath-a75a3222). I also had the privilege of working with Ericsson, Motorola, and Nokia prior to pursuing my PhD.
 
 My research work is focused on various aspects of design and engineering of algorithms for problems motivated from societal issues.
 
