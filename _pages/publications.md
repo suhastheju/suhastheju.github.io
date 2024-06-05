@@ -7,9 +7,11 @@ author_profile: true
 
 You may also review my [Google Scholar profile.](https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao)
 
-- [Towards human-AI complementarity with predictions sets](https://arxiv.org/abs/2405.17544).<br> With Giovanni De Toni, Nastaran Okati, Eleni Straitouri, Manuel Gomez-Rodriguez<br>
+- [Prediction powered ranking of large language models](https://arxiv.org/abs/2402.17826).<br> With Evi Chatzi, Eleni Straitouri, Manuel Gomez-Rodriguez<br> Under submission.
 
-- [Prediction powered ranking of large language models](https://arxiv.org/abs/2402.17826v1).<br> With Evi Chatzi, Eleni Straitouri, Manuel Gomez-Rodriguez<br> **In HEAL CHI Workshop 2024**
+- [Towards human-AI complementarity with predictions sets](https://arxiv.org/abs/2405.17544).<br> With Giovanni De Toni, Nastaran Okati, Eleni Straitouri, Manuel Gomez-Rodriguez<br> Under submission.
+
+- [Prediction powered ranking of large language models](https://heal-workshop.github.io/papers/3_prediction_powered_ranking_of_.pdf).<br> With Evi Chatzi, Eleni Straitouri, Manuel Gomez-Rodriguez<br> **In HEAL CHI Workshop 2024**
 
 - [Fair column subset selection](https://arxiv.org/abs/2306.04489).<br> With Antonios Matakos, Bruno Ordozgoiti <br> **In KDD 2024**
 
