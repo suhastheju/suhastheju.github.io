@@ -7,6 +7,11 @@ author_profile: true
 
 You may also review my [Google Scholar profile.](https://scholar.google.com/citations?user=kspzvLwAAAAJ&hl=en&oi=ao)
 
+- [Matchings, predictions and counterfactual harm in refugee resettlement rrocesses]()<br> With
+  Seungeon Lee, Nina Corvelo-Benz, Manuel Gomez-Rodriguez<br> Under submission.
+
+- [Controlling counterfactual harm in decision support systems based on prediction sets](https://arxiv.org/abs/2406.06671) <br> With Eleni Straitouri, Manuel Gomez-Rodriguez<br> Under submission.
+
 - [Prediction powered ranking of large language models](https://arxiv.org/abs/2402.17826).<br> With Evi Chatzi, Eleni Straitouri, Manuel Gomez-Rodriguez<br> Under submission.
 
 - [Towards human-AI complementarity with predictions sets](https://arxiv.org/abs/2405.17544).<br> With Giovanni De Toni, Nastaran Okati, Eleni Straitouri, Manuel Gomez-Rodriguez<br> Under submission.
