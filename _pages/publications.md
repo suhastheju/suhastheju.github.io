@@ -70,7 +70,8 @@ _In Knowledge Discovery and Data Mining (KDD), 2022_ \
 [[Paper]](https://doi.org/10.1145/3534678.3539487)
 [[Code]](https://github.com/suhastheju/diversity-aware-clustering)
 [[Slides]](https://suhastheju.github.io/files/presentations/fair-clustering-KDD-2022.pdf) 
-[[Poster]](https://suhastheju.github.io/files/posters/fair-clustering-KDD-2022.pdf) 
+[[Poster]](https://suhastheju.github.io/files/posters/fair-clustering-KDD-2022.pdf) \
+[In the media - featured Kudos research showcase](https://www.growkudos.com/publications/10.1145%25252F3534678.3539487/reader)
 
 - Diversity-aware k-median: clustering with fair-center representation <br>
 Suhas Thejaswi, Bruno Ordozgoiti, Aristides Gionis \
@@ -80,11 +81,13 @@ _In Machine Learning and Knowledge Discovery in Databases-Research Track (ECML P
 [[Code]](https://github.com/suhastheju/diversity-aware-k-median)
 [[Slides]](https://suhastheju.github.io/files/presentations/fair-clustering-ECML-2021.pdf)
 
+
 - Restless reachability problems in temporal graphs <br>
 Suhas Thejaswi, Juho Lauri, Aristides Gionis \
 [[ArXiv]](https://arxiv.org/abs/2010.08423)
 [[code]](https://github.com/suhastheju/restless-reachability)
-[[Slides]](https://suhastheju.github.io/files/presentations/restless-reachability-AATG-2022.pdf) \
+[[Slides]](https://suhastheju.github.io/files/presentations/restless-reachability-AATG-2022.pdf) 
+[[Video]](https://www.youtube.com/watch?v=IjPlTWHWRhk&list=PLMwGPPdJRfmVIJPWKoSX3jSxbSvIp9OKJ&index=9)
 
 - Finding path motifs in large temporal graphs using algebraic fingerprints <br>
 Suhas Thejaswi, Aristides Gionis, Juho Lauri \
