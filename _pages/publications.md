@@ -51,7 +51,7 @@ _In Knowledge Discovery and Data Mining (KDD), 2024_ \
 
 - Prediction powered ranking of large language models <br>
 Ivi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez \
-_In HEAL worksop @ Human Factors in Computing Systems (CHI), 2024_ \
+_In HEAL workshop @ Human Factors in Computing Systems (CHI), 2024_ \
 [[ArXiv]](https://arxiv.org/abs/2402.17826v1)
 [[Paper]](https://heal-workshop.github.io/papers/3_prediction_powered_ranking_of_.pdf)
 [[Code]](https://github.com/Networks-Learning/prediction-powered-ranking)
@@ -84,6 +84,7 @@ _In Machine Learning and Knowledge Discovery in Databases-Research Track (ECML P
 Suhas Thejaswi, Juho Lauri, Aristides Gionis \
 [[ArXiv]](https://arxiv.org/abs/2010.08423)
 [[code]](https://github.com/suhastheju/restless-reachability)
+[[Slides]](https://suhastheju.github.io/files/presentations/restless-reachability-AATG-2022.pdf) \
 
 - Finding path motifs in large temporal graphs using algebraic fingerprints <br>
 Suhas Thejaswi, Aristides Gionis, Juho Lauri \
