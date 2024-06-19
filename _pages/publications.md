@@ -69,9 +69,9 @@ _In Knowledge Discovery and Data Mining (KDD), 2022_ \
 [[ArXiv]](https://arxiv.org/pdf/2112.07030)
 [[Paper]](https://doi.org/10.1145/3534678.3539487)
 [[Code]](https://github.com/suhastheju/diversity-aware-clustering)
-[[Slides]](https://suhastheju.github.io/files/presentations/fair-clustering-KDD-2022.pdf) 
+[[Slides]](https://suhastheju.github.io/files/presentations/diversity-aware-clustering.pdf) 
 [[Poster]](https://suhastheju.github.io/files/posters/fair-clustering-KDD-2022.pdf) \
-[In the media - featured Kudos research showcase](https://www.growkudos.com/publications/10.1145%25252F3534678.3539487/reader)
+[In the media - featured in Kudos research showcase](https://www.growkudos.com/publications/10.1145%25252F3534678.3539487/reader)
 
 - Diversity-aware k-median: clustering with fair-center representation <br>
 Suhas Thejaswi, Bruno Ordozgoiti, Aristides Gionis \
