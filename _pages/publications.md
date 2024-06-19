@@ -31,8 +31,8 @@ You may also review my [Google Scholar profile.](https://scholar.google.com/cita
 - [Pattern detection in large temporal graphs using algebraic fingerprints](https://epubs.siam.org/doi/10.1137/1.9781611976236.5). <br> With Aristides Gionis <br> In **SDM 2020** (Best paper candidate).
 
 - Engineering motif search for large motifs \ 
+_In Symposium of Experimental Algorithms (SEA), 2020_ \
 Petteri Kaski, Juho Lauri, Suhas Thejaswi \
-In Symposium of Experimental Algorithms (SEA), 2020 \
 [[paper]](https://drops.dagstuhl.de/opus/volltexte/2018/8963/)
 [[code]](https://github.com/suhastheju/motif-localized)
 [[slides]](https://suhastheju.github.io/files/motif-search-presentation.pdf)
