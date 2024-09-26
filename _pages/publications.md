@@ -9,21 +9,29 @@ You may also review my [Google Scholar profile.](https://scholar.google.com/cita
 
 _Preprints_
 
-- Prediction powered ranking of large language models (Full paper) <br>
-Evi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez <br>
-[[ArXiv]](https://arxiv.org/abs/2402.17826) 
-[[Code]](https://github.com/Networks-Learning/prediction-powered-ranking)
-
-- Towards human-AI complementarity with predictions sets (Full paper) <br>
-Giovanni De Toni, Nastaran Okati, Suhas Thejaswi, Eleni Straitouri, Manuel Gomez-Rodriguez <br>
-[[ArXiv]](https://arxiv.org/abs/2405.17544)
-[[Code]](https://github.com/Networks-Learning/towards-human-ai-complementarity-predictions-sets)
-
 - Diversity-aware clustering: computational complexity and approximation algorithms (Full paper) <br>
 Suhas Thejaswi, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis <br>
 [[Arxiv]](https://arxiv.org/abs/2401.05502)
 
 _2024_ 
+
+- Controlling counterfactual harm in decision support systems based on prediction sets (Full paper) <br>
+Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez <br>
+_Advances in Neural Information Processing Systems (NeuRIPS 2024)_ <br>
+[[ArXiv]](https://arxiv.org/abs/2406.06671)
+[[Code]](https://github.com/Networks-Learning/controlling-counterfactual-harm-prediction-sets)
+
+- Prediction powered ranking of large language models (Full paper) <br>
+Evi Chatzi, Eleni Straitouri, Suhas Thejaswi, Manuel Gomez-Rodriguez <br>
+_Advances in Neural Information Processing Systems (NeuRIPS 2024)_ <br>
+[[ArXiv]](https://arxiv.org/abs/2402.17826) 
+[[Code]](https://github.com/Networks-Learning/prediction-powered-ranking)
+
+- Towards human-AI complementarity with predictions sets (Full paper) <br>
+Giovanni De Toni, Nastaran Okati, Suhas Thejaswi, Eleni Straitouri, Manuel Gomez-Rodriguez <br>
+_Advances in Neural Information Processing Systems (NeuRIPS 2024)_ <br>
+[[ArXiv]](https://arxiv.org/abs/2405.17544)
+[[Code]](https://github.com/Networks-Learning/towards-human-ai-complementarity-predictions-sets)
 
 - Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes (Workshop paper, oral presentation) <br>
 Seung Eon Lee, Nina Corvelo Benz, Suhas Thejaswi, Manuel Gomez Rodriguez <br>
