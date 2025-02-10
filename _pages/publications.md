@@ -9,14 +9,30 @@ You may also review my [Google Scholar profile.](https://scholar.google.com/cita
 
 _Preprints_
 
-- Fair clustering for data summarization: Improved approximation algorithms and complexity
-  insights* (Full paper) <br>
-Ameet Gadekar, Aristides Gionis, Suhas Thejaswi <br>
-[[Arxiv]](https://arxiv.org/abs/2410.12913)
+- Evaluation of Large Language Models via Coupled Token Generation (Full paper) <br>
+Nina Corvelo Benz, Stratis Tsirtis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, Suhas Thejaswi, Manuel Gomez-Rodriguez <br>
+[[ArXiv]](https://arxiv.org/abs/2502.01754)
+[[Code]](https://github.com/Networks-Learning/coupled-llm-evaluation)
 
 - Diversity-aware clustering: computational complexity and approximation algorithms (Full paper) <br>
 Suhas Thejaswi, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis <br>
 [[Arxiv]](https://arxiv.org/abs/2401.05502)
+
+
+_2025_
+
+- Fair clustering for data summarization: Improved approximation algorithms and complexity
+  insights* (Full paper) <br>
+_The Web Conference, Research Track (WWW 2025)_ <br>
+Ameet Gadekar, Aristides Gionis, Suhas Thejaswi <br>
+[[Arxiv]](https://arxiv.org/abs/2410.12913)
+[[Code]](https://github.com/suhastheju/fair-k-supplier-source)
+
+- Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes (Full paper) <br>
+Seung Eon Lee, Nina Corvelo Benz, Suhas Thejaswi, Manuel Gomez Rodriguez <br>
+_Causal Learning and Reasoning (CLeaR 2025)_ <br>
+[[ArXiv]](https://arxiv.org/abs/2407.13052)
+[[Code]](https://github.com/Networks-Learning/counterfactually-harmless-matching)
 
 _2024_ 
 
