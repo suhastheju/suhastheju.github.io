@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Fellow at the [Max Planck Institute for Software Systems](), working with [Dr. Manuel Gomez-Rodriguez](). My research focuses on designing algorithmic decision-support systems that promote responsible use of technology, in particular design of algorithms for fair clustering, fair dimentionality reduction, fair matching, among other problems. More recently, I have been exploring how to design such systems in ways that encourage effective human interaction—so that humans and algorithms together can perform better than either could alone, with the goal of achieving true human-AI complementarity.
+I am a Postdoctoral Fellow at the [Max Planck Institute for Software Systems](), working with [Dr. Manuel Gomez-Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html). My research focuses on designing algorithmic decision-support systems that promote responsible use of technology, in particular design of algorithms for fair clustering, fair dimentionality reduction, fair matching, among other problems. More recently, I have been exploring how to design such systems in ways that encourage effective human interaction—so that humans and algorithms together can perform better than either could alone, with the goal of achieving true human-AI complementarity.
 
-I received my PhD in Computer Science from [Aalto University](https://www.aalto.fi/en), Finland, where I had the privilege of being advised by [Prof. Aristides Gionis](https://www.kth.se/profile/argioni)). My doctoral research focused on designing scalable algorithms for societal challenges, including modeling epidemic propagation and developing algorithms for fair variants of combinatorial optimization problems. During my master’s studies, I had the opportunity to work with [Prof. Petteri Kaski](https://users.ics.aalto.fi/pkaski/) on parameterized algorithms and algorithm engineering. Prior to pursuing my PhD, I worked as a research engineer at Nokia, Motorola, and Ericsson.
+I received my PhD in Computer Science from [Aalto University](https://www.aalto.fi/en), Finland, where I had the privilege of being advised by [Prof. Aristides Gionis](https://www.kth.se/profile/argioni). My doctoral research focused on designing scalable algorithms for societal challenges, including modeling epidemic propagation and developing algorithms for fair variants of combinatorial optimization problems. During my master’s studies, I had the opportunity to work with [Prof. Petteri Kaski](https://users.ics.aalto.fi/pkaski/) on parameterized algorithms and algorithm engineering. Prior to pursuing my PhD, I worked as a research engineer at Nokia, Motorola, and Ericsson.
 
 
 ## Research Interests
@@ -17,7 +17,7 @@ I received my PhD in Computer Science from [Aalto University](https://www.aalto.
   
 ## Recent News
 
-- **[May. 2025]** We have released a preprint of our latest work on "Capacitated Fair-Range Clustering" in [arXiv](https://arxiv.org/abs/2405.12345)!
+- **[May. 2025]** We have released a preprint of our latest work on "Capacitated Fair-Range Clustering" in [arXiv](https://arxiv.org/abs/2505.15905)!
 - **[Apr. 2025]** I will be attending the ACM Web Conference 2025 in Sydney, Australia, where I will present our paper "Fair Clustering for Data Summarization: improved approximation algorithms and Complexity Insights"!
 - **[Mar. 2025]** I was awarded an outstanding reviewer award for my contributions to the ACM SIGKDD 2025!
 - **[Mar. 2025]** Our paper "Fair Clustering for Data Summarization: improved approximation algorithms and Complexity Insights" has been accepted at the ACM Web Conference 2025!
