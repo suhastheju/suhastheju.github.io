@@ -11,9 +11,9 @@ I received my PhD in Computer Science from [Aalto University](https://www.aalto.
 
 ## Research Interests
 
-- **Responsible Computing:** algorithmic fairness, responsible AI
-- **Behavioural Psychology:** human factors in algorithmic decision-making, human-AI interaction, (ir)rationality of human judgement
-- **Combinatorial Optimization:** approximation algorithms, parametrized algorithms, exact-exponential algorithms
+- **Responsible Computing:** algorithmic fairness, accountability and governance
+- **Combinatorial Optimization:** approximation algorithms, parameterized algorithms
+- **Behavioural Psychology:** bias and (ir)rationality in human judgement
   
 ## Recent News
 
