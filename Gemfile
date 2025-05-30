@@ -18,7 +18,3 @@ gem "minima", "~> 2.0"
 gem "github-pages", group: :jekyll_plugins
 
 gem "webrick", "~> 1.8"
-
-gem 'nokogiri', '~> 1.16.2'
-
-gem 'eventmachine', '~> 1.2.7'
