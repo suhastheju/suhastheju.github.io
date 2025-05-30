@@ -1,9 +1,10 @@
 main:
 
-  - title: Characterizing the effects of structural fires on fine particulate matter with a dense sensing network
-    authors: Ayina Anyachebelu, <strong>Alex Cabral</strong>, Marah I. Abdin, Pallavi Choudhury, Madeleine I. G. Daepp
+  - title: Capacitated Fair-Range Clustering - Hardness and Approximation Algorithms
+    authors: Ameet Gadekar, <strong>Suhas Thejaswi</strong>
     #conference_short: MICCAI
-    conference: Scientific Reports, 13:12862, 2023.
+    conference: arXiv, 2025.
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/semicircle_id.png
-    pdf: https://www.nature.com/articles/s41598-023-38392-3.pdf
+    pdf: https://arxiv.org/pdf/2505.15905
+    notes: Authors in alphabetical order.
