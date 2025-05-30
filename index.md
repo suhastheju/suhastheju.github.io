@@ -20,5 +20,5 @@ My primary research interest lies in the design of algorithms with provable theo
   Learning (ICML) 2025 for my contributions to the review process!
 - **[May. 2025]** We have released a preprint of our latest work on "Capacitated Fair-Range Clustering" in [arXiv](https://arxiv.org/abs/2505.15905)!
 - **[Apr. 2025]** I will be attending the ACM Web Conference 2025 in Sydney, Australia, where I will present our paper "Fair Clustering for Data Summarization: improved approximation algorithms and Complexity Insights"!
-- **[Mar. 2025]** I was awarded an outstanding reviewer award for my contributions to the ACM SIGKDD 2025 for my contributions to the review process!
+- **[Mar. 2025]** I was received an **Outstanding Reviewer** award at the ACM Conference on Knowledge Discovery and Data Mining (KDD) 2025 for my contributions to the review process!
 - **[Mar. 2025]** Our paper "Fair Clustering for Data Summarization: improved approximation algorithms and Complexity Insights" has been accepted at the ACM Web Conference 2025!
