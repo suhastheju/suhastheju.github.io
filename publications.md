@@ -1,6 +1,12 @@
 ---
-layout: homepage
-premalink: /publications/
+layout: page
+title: Publications
+permalink: /publications/
 ---
 
-## About Me
+## Publications
+
+- **Title 1** – _Journal Name_, Year. [Link](#)
+- **Title 2** – _Conference Name_, Year. [Link](#)
+
+<!-- Add more as needed -->
