@@ -34,12 +34,21 @@
     <link rel="stylesheet" href="../assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <link rel="stylesheet" href="../assets/css/homepage.css">
   </head>
   <body>
-    <nav class="top-nav" style="text-align: left; font-size: 1.25rem; padding: 1rem; padding-left: 2rem; border-bottom: none;">
-      <a href="{{ site.baseurl }}/" style="padding-left: 3rem; font-weight: bold; font-size: 1.75rem; color: grey;">Home</a>
-      <a href="{{ site.baseurl }}/publications/" style="padding-left: 8rem; color: grey;">Publications</a>
-    </nav> 
+  <nav class="top-nav" style="
+      font-size: 1.25rem;
+      padding: 1rem 2rem;
+      border-bottom: none;
+      ">
+      <a href="{{ site.baseurl }}/" style="font-weight: bold; font-size: 1.75rem; color: grey;">
+        Home
+      </a>
+      <a href="{{ site.baseurl }}/publications/" style="color: grey; text-decoration: none;">
+        Publications
+      </a>
+    </nav>
     <div class="wrapper">
       <header>
         {% if site.avatar %}
