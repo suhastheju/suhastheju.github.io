@@ -2,3 +2,21 @@
 ---
 
 @import "minimal-light";
+
+.top-nav {
+  text-align: center;
+  font-weight: bold;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.top-nav a {
+  margin: 0 1.5rem;
+  text-decoration: none;
+  color: grey;
+}
+
+.top-nav a:hover {
+  color: #444;
+  text-decoration: underline;
+}
