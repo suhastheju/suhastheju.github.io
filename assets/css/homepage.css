@@ -1,0 +1,14 @@
+.top-nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    margin-left: 3em;
+}
+
+.top-nav > a {
+    margin-left: 3em;
+}
+
+.top-nav > a:first-child {
+    margin-left: 0;
+}
