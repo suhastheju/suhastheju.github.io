@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: page
 title: Publications
 permalink: /publications/
 ---
@@ -10,3 +10,5 @@ permalink: /publications/
 - **Title 2** – _Conference Name_, Year. [Link](#)
 
 <!-- Add more as needed -->
+asdasd
+sdasda
