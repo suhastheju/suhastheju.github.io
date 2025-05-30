@@ -17,6 +17,8 @@ I received my PhD in Computer Science from [Aalto University](https://www.aalto.
   
 ## Recent News
 
+- **[May. 2025]** I was recognized as a **Top Reviewer** at the International Conference on Machine
+  Learning (ICML) 2025 for my contributions to the review process!
 - **[May. 2025]** We have released a preprint of our latest work on "Capacitated Fair-Range Clustering" in [arXiv](https://arxiv.org/abs/2505.15905)!
 - **[Apr. 2025]** I will be attending the ACM Web Conference 2025 in Sydney, Australia, where I will present our paper "Fair Clustering for Data Summarization: improved approximation algorithms and Complexity Insights"!
 - **[Mar. 2025]** I was awarded an outstanding reviewer award for my contributions to the ACM SIGKDD 2025!
