@@ -15,4 +15,3 @@ main:
     bibtex: ../assets/bibtex/WWW25.txt
     image: ../assets/img/FairClustering.png
     pdf: https://dl.acm.org/doi/pdf/10.1145/3696410.3714857
-    rate: 20
