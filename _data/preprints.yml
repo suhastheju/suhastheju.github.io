@@ -1,9 +1,0 @@
-main:
-
-  - title: Capacitated Fair-Range Clustering - Hardness and Approximation Algorithms
-    authors: Ameet Gadekar, <strong>Suhas Thejaswi</strong>
-    #conference_short: MICCAI
-    conference: arXiv Preprint, 2025.
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ../assets/img/CFRkMed.png
-    pdf: https://arxiv.org/pdf/2505.15905
