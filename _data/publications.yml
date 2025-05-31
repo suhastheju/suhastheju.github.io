@@ -10,14 +10,14 @@ main:
     type: preprint
 
   - title: Evaluation of Large Language Models via Coupled Token Generation
-    authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <strong>Suhas Thejaswi<\strong>, Manuel Gomez-Rodriguez
+    authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <strong>Suhas Thejaswi</strong>, Manuel Gomez-Rodriguez
     conference_short: Preprint
     conference: arXiv Preprint, 2025.
     bibtex: ../assets/bibtex/LLM-Coupled-Token-Generation.txt
     image: ../assets/img/LLM-Coupled-Token-Generation.png
     pdf: https://arxiv.org/pdf/2505.15905
     type: preprint
-    notes: Also appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
+    #notes: Also appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
   - title: Diversity-Aware Clustering -- Computational Complexity and Approximation Algorithms
     authors: <strong>Suhas Thejaswi</strong>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
