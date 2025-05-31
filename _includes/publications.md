@@ -19,7 +19,7 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a> </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
-      {% if link.rate %}<div class="rate">Acc. rate: {{ link.rate }}%</div>{% endif %}
+      {% if link.rate %}<div class="rate">Accp. rate: {{ link.rate }}%</div>{% endif %}
       </div>
     <div class="links">
       {% if link.pdf %} 
@@ -41,6 +41,9 @@
       {{ link.others }}
       {% endif %}
     </div>
+    {% if link.notes %}
+      <div class="notes"> <i style ="color:#e74d3c">{{ link.notes }}</i></div>
+    {% endif %}
   </div>
 </div>
 </li>
