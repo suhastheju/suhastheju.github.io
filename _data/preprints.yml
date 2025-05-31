@@ -7,12 +7,3 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ../assets/img/CFRkMed.png
     pdf: https://arxiv.org/pdf/2505.15905
-
-  - title: Fair Clustering for Data Summarization - Improved Approximation Algorithms and Complexity Insights
-    authors: Ameet Gadekar, Aristides Gionis, <strong>Suhas Thejaswi</strong>
-    conference_short: WWW
-    conference: The ACM Web Conference, 2025.
-    bibtex: ../assets/bibtex/WWW25.txt
-    image: ../assets/img/FairkSup.png
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3696410.3714857
-    rate: 20

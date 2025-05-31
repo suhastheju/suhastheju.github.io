@@ -1,7 +1,7 @@
-<div class="preprints">
+<div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.preprints.main %}
+{% for link in site.data.publications.main %}
 
 <li>
 <div class="pub-row">
