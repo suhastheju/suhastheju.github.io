@@ -1,0 +1,16 @@
+@inproceedings{gadekar2025fair,
+author = {Gadekar, Ameet and Gionis, Aristides and Thejaswi, Suhas},
+title = {Fair Clustering for Data Summarization: Improved Approximation Algorithms and Complexity Insights},
+year = {2025},
+isbn = {9798400712746},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3696410.3714857},
+doi = {10.1145/3696410.3714857},
+booktitle = {Proceedings of the ACM on Web Conference 2025},
+pages = {4458–4469},
+numpages = {12},
+keywords = {algorithmic bias, algorithmic fairness, fair clustering, fair k-center, fair k-supplier, responsible computing},
+location = {Sydney NSW, Australia},
+series = {WWW '25}
+}
