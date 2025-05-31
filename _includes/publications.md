@@ -3,7 +3,7 @@
 <ol class="bibliography">
 
 
-## Working papers
+<h2 id="publications" style="margin: 2px 0px 15px;">Working papers</h2>
 
 {% for link in site.data.publications.main %}
 
@@ -54,7 +54,7 @@
 {% endfor %}
 
 
-<h2 id="publications" style="margin: 2px 0px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 15px;">Publications</h2>
 
 {% for link in site.data.publications.main %}
 
