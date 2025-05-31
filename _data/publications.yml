@@ -1,6 +1,6 @@
 main:
 
-  - title: Capacitated Fair-Range Clustering -- Hardness and Approximation Algorithms
+  - title: Capacitated Fair-Range Clustering -- Hardness and Approximation Algorithms$^{\alpha\beta}$
     authors: Ameet Gadekar, <strong>Suhas Thejaswi</strong>
     conference_short: Preprint
     conference: arXiv Preprint, 2025.
