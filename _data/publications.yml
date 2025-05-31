@@ -8,3 +8,4 @@ main:
     image: ./assets/img/semicircle_id.png
     pdf: https://arxiv.org/pdf/2505.15905
     notes: Authors in alphabetical order.
+    alphabetical: true
