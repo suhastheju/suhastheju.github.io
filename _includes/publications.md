@@ -54,7 +54,7 @@
 {% endfor %}
 
 
-## Publications
+<h2 id="publications" style="margin: 2px 0px;">Publications</h2>
 
 {% for link in site.data.publications.main %}
 
