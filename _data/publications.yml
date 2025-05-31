@@ -10,8 +10,7 @@ main:
     type: preprint
 
   - title: Evaluation of Large Language Models via Coupled Token Generation
-    authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco,
-<strong>Suhas Thejaswi<\strong>, Manuel Gomez-Rodriguez
+    authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <strong>Suhas Thejaswi<\strong>, Manuel Gomez-Rodriguez
     conference_short: Preprint
     conference: arXiv Preprint, 2025.
     bibtex: ../assets/bibtex/LLM-Coupled-Token-Generation.txt
