@@ -16,4 +16,3 @@ main:
     image: ../assets/img/FairkSup.png
     pdf: https://dl.acm.org/doi/pdf/10.1145/3696410.3714857
     rate: 20
-    notes: Authors in alphabetical order.
