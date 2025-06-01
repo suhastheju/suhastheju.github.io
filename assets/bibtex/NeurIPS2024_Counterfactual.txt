@@ -1,0 +1,9 @@
+@inproceedings{straitouri2024controlling,
+  title        = {Controlling Counterfactual Harm in Decision Support Systems Based on Prediction Sets}, 
+  author       = {Eleni Straitouri and Suhas Thejaswi and Manuel Gomez Rodriguez},
+  year         = {2024},
+  booktitle    = {Advances in Neural Information Processing Systems (NeurIPS)},
+  publisher    = {PMLR},
+  note         = {A*},
+  addendum     = {25.8\%}
+}

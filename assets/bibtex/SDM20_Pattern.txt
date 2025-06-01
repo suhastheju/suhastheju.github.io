@@ -1,0 +1,11 @@
+@inproceedings{thejaswi2020pattern,
+  author        = {Suhas Thejaswi and Aristides Gionis},
+  title         = {Pattern detection in large temporal graphs using algebraic fingerprints},
+  booktitle     = {SIAM International Conference on Data Mining (SDM)},
+  year          = {2020},
+  pages         = {37-45},
+  doi           = {10.1137/1.9781611976236.5},
+  note          = {A},
+  addendum      = {24\%},
+  howpublished  = {Best paper candidate}
+}

@@ -1,0 +1,16 @@
+@inproceedings{kaski2018engineering,
+  author        = {Kaski, Petteri and Lauri, Juho and Thejaswi, Suhas},
+  type          = {alphabetical},
+  title         =	{{Engineering Motif Search for Large Motifs}},
+  booktitle     =	{International Symposium on Experimental Algorithms (SEA)},
+  pages         =	{28:1--28:19},
+  series        =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN          =	{978-3-95977-070-5},
+  ISSN          =	{1868-8969},
+  year          =	{2018},
+  volume        =	{103},
+  publisher     =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address       =	{Dagstuhl, Germany},
+  note          = {B},
+  addendum      = {Not available}
+}

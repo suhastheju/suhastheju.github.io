@@ -1,5 +1,5 @@
 main:
-
+  # Preprints
   - title: Capacitated Fair-Range Clustering -- Hardness and Approximation Algorithms
     authors: Ameet Gadekar, <strong>Suhas Thejaswi</strong>
     conference_short: Preprint
@@ -13,27 +13,152 @@ main:
     authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <strong>Suhas Thejaswi</strong>, Manuel Gomez-Rodriguez
     conference_short: Preprint
     conference: arXiv Preprint, 2025.
-    bibtex: ../assets/bibtex/LLM-Coupled-Token-Generation.txt
+    #bibtex: ../assets/bibtex/LLM-Coupled-Token-Generation.txt
     image: ../assets/img/LLM-Coupled-Token-Generation.png
-    pdf: https://arxiv.org/pdf/2505.15905
+    pdf: https://arxiv.org/pdf/2502.01754
     type: preprint
-    #notes: Also appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
+    #conf-rating: Also appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
   - title: Diversity-Aware Clustering -- Computational Complexity and Approximation Algorithms
     authors: <strong>Suhas Thejaswi</strong>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
     conference_short: Preprint
     conference: arXiv Preprint, 2024.
-    bibtex: ../assets/bibtex/DivkMed.txt
+    #bibtex: ../assets/bibtex/DivkMed.txt
     image: ../assets/img/DivkMed.png
     pdf: https://arxiv.org/pdf/2401.05502 
     type: preprint
 
+  # proceedings and journal articles
+  #
   - title: Fair Clustering for Data Summarization -- Improved Approximation Algorithms and Complexity Insights
     authors: Ameet Gadekar, Aristides Gionis, <strong>Suhas Thejaswi</strong>
     conference_short: WWW
-    conference: The ACM Web Conference, 2025.
+    conference: The ACM Web Conference (WebConf), 2025.
     bibtex: ../assets/bibtex/WWW25.txt
     image: ../assets/img/FairkSup.png
     pdf: https://dl.acm.org/doi/pdf/10.1145/3696410.3714857
-    rate: 20
-    type: publication
+    type: proceedings
+    accp-rate: 20 %
+    conf-rating: A*
+
+  - title: Restless Reachability Problems in Temporal Graphs
+    authors: <strong>Suhas Thejaswi</strong>, Juho Lauri, Aristides Gionis
+    conference_short: KAIS
+    conference: Knowledge and Information Systems (KAIS), 2025.
+    bibtex: ../assets/bibtex/KAIS25_Restless.txt
+    impact-factor: 2.6
+    type: journal
+    pdf: https://arxiv.org/pdf/2010.08423 
+
+  - title: Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes
+    authors: Seungeon Lee, Nina Corvelo-Benz, <strong>Suhas Thejaswi</strong>, Manuel Gomez-Rodriguez
+    conference_short: CLeaR
+    conference: Causal Learning and Reasoning (CLeaR), 2025.
+    bibtex: ../assets/bibtex/CLeaR25.txt
+    publisher: PMLR
+    type: proceedings
+    accp-rate: 43.94 %
+    conf-rating: Not available
+    pdf: https://arxiv.org/pdf/2407.13052
+
+  - title: Controlling Counterfactual Harm in Decision Support Systems Based on Prediction Sets
+    authors: Eleni Straitouri, <strong>Suhas Thejaswi</strong>, Manuel Gomez Rodriguez
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2024.
+    publisher: PMLR
+    bibtex: ../assets/bibtex/NeurIPS24_Counterfactual.txt
+    type: proceedings
+    accp-rate: 25.8 %
+    conf-rating: A*
+    pdf: https://arxiv.org/pdf/2406.06671
+
+  - title: Towards Human-AI Complementarity with Predictions Sets
+    authors: Giovanni De Toni, Nastaran Okati, <strong>Suhas Thejaswi</strong>, Eleni Straitouri, Manuel Gomez-Rodriguez
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2024.
+    publisher: PMLR
+    bibtex: ../assets/bibtex/NeurIPS24_HAI.txt
+    type: proceedings
+    accp-rate: 25.8 %
+    conf-rating: A*
+    pdf: https://arxiv.org/pdf/2405.17544
+
+  - title: Prediction-Powered Ranking of Large Language Models
+    authors: Ivi Chatzi, Eleni Straitouri, <strong>Suhas Thejaswi</strong>, Manuel Gomez Rodriguez
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2024.
+    publisher: PMLR
+    bibtex: ../assets/bibtex/NeurIPS24_LLM.txt
+    type: proceedings
+    accp-rate: 25.8 %
+    conf-rating: A*
+    pdf: https://arxiv.org/pdf/2402.17826
+
+  - title: Fair Column Subset Selection
+    authors: Antonis Matakos, Bruno Ordozgoiti, <strong>Suhas Thejaswi</strong>
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+    publisher: ACM
+    location: Barcelona, Spain
+    bibtex: ../assets/bibtex/KDD24_FairCSS.txt
+    pdf: https://doi.org/10.1145/3637528.3672005
+    accp-rate: 20 %
+    conf-rating: A*
+    type: proceedings
+
+  - title: Clustering with Fair-Center Representation -- Parameterized Approximation Algorithms and Heuristics
+    authors: <strong>Suhas Thejaswi</strong>, Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.
+    publisher: ACM
+    location: Washington DC, USA
+    bibtex: ../assets/bibtex/KDD22_FairCenter.txt
+    pdf: https://doi.org/10.1145/3534678.3539487
+    accp-rate: 15 %
+    conf-rating: A*
+    notes: Featured in ACM research showcase
+    type: proceedings
+    blogpost: https://www.growkudos.com/publications/10.1145%252F3534678.3539487/reader
+
+  - title: Diversity-Aware k-median--Clustering with Fair Center Representation
+    authors: <strong>Suhas Thejaswi</strong>, Bruno Ordozgoiti, Aristides Gionis
+    conference_short: ECML
+    conference: Machine Learning and Knowledge Discovery in Databases (ECML), 2021.
+    publisher: Springer
+    bibtex: ../assets/bibtex/ECML21_Diversity.txt
+    accp-rate: 19.1 %
+    conf-rating: A
+    type: proceedings
+    pdf: https://arxiv.org/pdf/2106.11696
+
+  - title: Finding Path Motifs in Large Temporal Graphs Using Algebraic Fingerprints
+    authors: <strong>Suhas Thejaswi</strong>, Aristides Gionis, Juho Lauri
+    conference_short: Big Data
+    conference: Big Data, Volume 8, Number 5 (2020), pp. 335–362.
+    bibtex: ../assets/bibtex/BigData20_PathMotifs.txt
+    pdf: https://doi.org/10.1089/big.2020.0078
+    impact-factor: 12.4
+    notes: Special issue on best papers of SIAM Data Mining 2020
+    type: journal
+
+  - title: Pattern detection in large temporal graphs using algebraic fingerprints
+    authors: <strong>Suhas Thejaswi</strong>, Aristides Gionis
+    conference_short: SDM
+    conference: SIAM International Conference on Data Mining (SDM), 2020.
+    bibtex: ../assets/bibtex/SDM20_Pattern.txt
+    pdf: https://doi.org/10.1137/1.9781611976236.5
+    accp-rate: 24 %
+    conf-rating: A
+    notes: Best paper candidate
+    type: proceedings
+
+  - title: Engineering Motif Search for Large Motifs
+    authors: Petteri Kaski, Juho Lauri, <strong>Suhas Thejaswi</strong>
+    conference_short: SEA
+    conference: International Symposium on Experimental Algorithms (SEA), 2018.
+    publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik
+    bibtex: ../assets/bibtex/SEA18_Motif.txt
+    accp-rate: Not available
+    conf-rating: B
+    type: proceedings
+    pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol103-sea2018/LIPIcs.SEA.2018.28/LIPIcs.SEA.2018.28.pdf

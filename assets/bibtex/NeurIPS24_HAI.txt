@@ -1,0 +1,9 @@
+@inproceedings{detoni2024towards,
+  author       = {Giovanni De Toni and Nastaran Okati and Suhas Thejaswi and Eleni Straitouri and Manuel Gomez-Rodriguez},
+  title        = {Towards Human-AI Complementarity with Predictions Sets},
+  year         = {2024},
+  booktitle    = {Advances in Neural Information Processing Systems (NeurIPS)},
+  publisher    = {PMLR},
+  note         = {A*},
+  addendum     = {25.8\%}
+}

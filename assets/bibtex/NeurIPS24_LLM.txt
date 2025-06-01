@@ -1,0 +1,9 @@
+@inproceedings{chatzi2024prediction,
+  title        = {Prediction-Powered Ranking of Large Language Models}, 
+  author       = {Ivi Chatzi and Eleni Straitouri and Suhas Thejaswi and Manuel Gomez Rodriguez},
+  year         = {2024},
+  booktitle    = {Advances in Neural Information Processing Systems (NeurIPS)},
+  publisher    = {PMLR},
+  note         = {A*},
+  addendum     = {25.8\%}
+}

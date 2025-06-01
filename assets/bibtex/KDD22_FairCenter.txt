@@ -1,0 +1,18 @@
+@inproceedings{thejaswi2022clustering,
+  author        = {Thejaswi, Suhas and Gadekar, Ameet and Ordozgoiti, Bruno and Osadnik, Michal},
+  title         = {Clustering with Fair-Center Representation: Parameterized Approximation Algorithms and Heuristics},
+  year          = {2022},
+  isbn          = {9781450393850},
+  publisher     = {ACM},
+  address       = {New York, NY, USA},
+  url           = {https://doi.org/10.1145/3534678.3539487},
+  doi           = {10.1145/3534678.3539487},
+  booktitle     = {ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+  pages         = {1749–1759},
+  numpages      = {11},
+  location      = {Washington DC, USA},
+  series        = {KDD '22},
+  note          = {A*},
+  addendum      = {15\%},
+  howpublished  = {Featured in ACM research showcase}
+}

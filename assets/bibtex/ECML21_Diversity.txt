@@ -1,0 +1,12 @@
+@inproceedings{thejaswi2021diversity,
+  author        = {Thejaswi, Suhas and Ordozgoiti, Bruno and Gionis, Aristides},
+  title         = {Diversity-Aware $k$-median: Clustering with Fair Center Representation},
+  booktitle     = {Machine Learning and Knowledge Discovery in Databases (ECML)},
+  year          = {2021},
+  publisher     = {Springer},
+  address       = {Cham},
+  pages         = {765--780},
+  isbn          = {978-3-030-86520-7},
+  note          = {A},
+  addendum      = {19.1\%},
+}
