@@ -14,7 +14,6 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a> </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
-      {% if link.rate %}<div class="rate">Accp. rate: {{ link.rate }}%</div>{% endif %}
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -32,14 +31,15 @@
       {{ link.others }}
       {% endif %}
     </div>
+    {% if link.workshop %}<div class="workshop">* {{ link.workshop }}</div>{% endif %}
     {% if link.notes %}
       <div class="notes"> <i style ="color:#e74d3c">{{ link.notes }}</i></div>
     {% endif %}
   </div>
 </div>
 </li>
+<div style="margin-top: 1.5em;"></div>
 {% endif %}
-
 {% endfor %}
 
 
@@ -84,6 +84,7 @@ style="font-size:12px;">Blog Post</a>
         {{ link.others }}
       {% endif %}
     </div>
+    {% if link.workshop %}<div class="workshop">* {{ link.workshop }}</div>{% endif %}
     {% if link.notes %}
       <div class="notes"> <i style ="color:#e74d3c">{{ link.notes }}</i></div>
     {% endif %}

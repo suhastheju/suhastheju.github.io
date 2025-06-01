@@ -17,7 +17,7 @@ main:
     image: ../assets/img/LLM-Coupled-Token-Generation.png
     pdf: https://arxiv.org/pdf/2502.01754
     type: preprint
-    #conf-rating: Also appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
+    workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
   - title: Diversity-Aware Clustering -- Computational Complexity and Approximation Algorithms
     authors: <strong>Suhas Thejaswi</strong>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
@@ -60,6 +60,7 @@ main:
     accp-rate: 43.94 %
     conf-rating: Not available
     pdf: https://arxiv.org/pdf/2407.13052
+    workshop: Also appeared in KDD 2024 workshop on Ethical Artificial Intelligence
 
   - title: Controlling Counterfactual Harm in Decision Support Systems Based on Prediction Sets
     authors: Eleni Straitouri, <strong>Suhas Thejaswi</strong>, Manuel Gomez Rodriguez
@@ -71,6 +72,7 @@ main:
     accp-rate: 25.8 %
     conf-rating: A*
     pdf: https://arxiv.org/pdf/2406.06671
+    workshop: Also appeared in ICML 2024 workshop on Humans, Algorithmic Decision-Making and Society
 
   - title: Towards Human-AI Complementarity with Predictions Sets
     authors: Giovanni De Toni, Nastaran Okati, <strong>Suhas Thejaswi</strong>, Eleni Straitouri, Manuel Gomez-Rodriguez
@@ -93,6 +95,7 @@ main:
     accp-rate: 25.8 %
     conf-rating: A*
     pdf: https://arxiv.org/pdf/2402.17826
+    workshop: Also appeared in CHI 2024 Workshop on Human-centered Evaluation and Auditing of LMs
 
   - title: Fair Column Subset Selection
     authors: Antonis Matakos, Bruno Ordozgoiti, <strong>Suhas Thejaswi</strong>
