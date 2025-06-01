@@ -1,0 +1,7 @@
+@article{gadekar2025capacitated,
+  author       = {Ameet Gadekar and Suhas Thejaswi},
+  type         = {alphabetical},
+  title        = {Capacitated fair-range clustering: hardness and approximation algorithms},
+  booktitle    = {https://arxiv.org/abs/2401.05502},
+  year         = {2025}
+}

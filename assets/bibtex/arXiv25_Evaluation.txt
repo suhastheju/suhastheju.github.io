@@ -1,0 +1,6 @@
+@article{corvelobenz2025evaluation:arxiv,
+  author       = {Nina Corvelo-Benz and Stratis Tsirtsis and Eleni Straitouri and Ivi Chatzi and Ander Artola Velasco and Suhas Thejaswi and Manuel Gomez-Rodriguez},
+  title        = {Evaluation of Large Language Models via Coupled Token Generation},
+  booktitle    = {https://arxiv.org/abs/2502.01754},
+  year         = {2025}
+}

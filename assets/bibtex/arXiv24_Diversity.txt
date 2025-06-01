@@ -1,0 +1,6 @@
+@article{thejaswi2024diversity,
+  author       = {Suhas Thejaswi and Ameet Gadekar and Bruno Ordozgoiti and Aristides Gionis},
+  title        = {Diversity-aware clustering: computational complexity and approximation algorithms},
+  booktitle    = {https://arxiv.org/abs/2401.05502},
+  year         = {2024}
+}

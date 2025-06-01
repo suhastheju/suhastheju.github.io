@@ -1,0 +1,9 @@
+@inproceedings{lee2024matchings:2,
+  title      = {Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes},
+  year       = {2025},
+  author     = {Seungeon Lee and Nina Corvelo-Benz and Suhas Thejaswi and Manuel Gomez-Rodriguez},
+  booktitle  = {Causal Learning and Reasoning (CLeaR)},
+  publisher  = {PMLR},
+  note       = {Not available},
+  addendum   = {43.94\%}
+}

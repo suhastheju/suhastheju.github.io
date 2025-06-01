@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: homepage
 permalink: /publications/
 ---
 

@@ -1,0 +1,12 @@
+@article{thejaswi2020finding,
+  author        = {Thejaswi, Suhas and Gionis, Aristides and Lauri, Juho},
+  title         = {Finding Path Motifs in Large Temporal Graphs Using Algebraic Fingerprints},
+  booktitle     = {Big Data},
+  volume        = {8},
+  number        = {5},
+  pages         = {335-362},
+  year          = {2020},
+  doi           = {10.1089/big.2020.0078},
+  note          = {12.4},
+  howpublished  = {Special issue on best papers of SIAM Data Mining $2020$}
+}

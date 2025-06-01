@@ -1,0 +1,10 @@
+@article{thejaswi2025restless,
+  author       = {Suhas Thejaswi and Juho Lauri and Aristides Gionis},
+  title        = {Restless Reachability Problems in Temporal Graphs},
+  booktitle    = {Knowledge and Information Systems},
+  volumne      = {},
+  number       = {},
+  pages        = {},
+  note         = {2.6},
+  year         = {2025}
+}
