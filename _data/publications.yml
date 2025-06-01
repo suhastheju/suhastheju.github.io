@@ -1,6 +1,6 @@
 ################ Preprints ################################
 preprint:
-  - title: Capacitated Fair-Range Clustering -- Hardness and Approximation Algorithms
+  - title: Capacitated Fair-Range Clustering—Hardness and Approximation Algorithms
     authors: Ameet Gadekar, <i>Suhas Thejaswi</i>
     conference_short: Preprint
     conference: arXiv Preprint, 2025.
@@ -21,7 +21,7 @@ preprint:
     code: https://github.com/Networks-Learning/coupled-llm-evaluation
     workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
-  - title: Diversity-Aware Clustering -- Computational Complexity and Approximation Algorithms
+  - title: Diversity-Aware Clustering—Computational Complexity and Approximation Algorithms
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
     conference_short: Preprint
     conference: arXiv Preprint, 2024.
@@ -32,7 +32,7 @@ preprint:
 
 ############## proceedings and journal articles #############
 published:
-  - title: Fair Clustering for Data Summarization -- Improved Approximation Algorithms and Complexity Insights
+  - title: Fair Clustering for Data Summarization—Improved Approximation Algorithms and Complexity Insights
     authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>
     conference_short: WWW
     conference: The ACM Web Conference (WebConf), 2025.
@@ -117,7 +117,7 @@ published:
     type: proceedings
     code: https://github.com/suhastheju/FairCSS
 
-  - title: Clustering with Fair-Center Representation -- Parameterized Approximation Algorithms and Heuristics
+  - title: Clustering with Fair-Center Representation—Parameterized Approximation Algorithms and Heuristics
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik
     conference_short: KDD
     conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.
