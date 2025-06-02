@@ -3,7 +3,7 @@ preprint:
   - title: Capacitated Fair-Range Clustering—Hardness and Approximation Algorithms
     authors: Ameet Gadekar, <i>Suhas Thejaswi</i>
     conference_short: Preprint
-    conference: arXiv Preprint, 2025.
+    conference: arXiv Preprint, 2025. (Under Review)
     bibtex: ../assets/bibtex/arXiv25_Capacitated.txt
     image: ../assets/img/CFRkMed.png
     pdf: https://arxiv.org/pdf/2505.15905
@@ -13,7 +13,7 @@ preprint:
   - title: Evaluation of Large Language Models via Coupled Token Generation
     authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <i>Suhas Thejaswi</i>, Manuel Gomez-Rodriguez
     conference_short: Preprint
-    conference: arXiv Preprint, 2025.
+    conference: arXiv Preprint, 2025. (Under Review)
     bibtex: ../assets/bibtex/arXiv25_Evaluation.txt
     image: ../assets/img/LLM-Coupled-Token-Generation.png
     pdf: https://arxiv.org/pdf/2502.01754
@@ -24,7 +24,7 @@ preprint:
   - title: Diversity-Aware Clustering—Computational Complexity and Approximation Algorithms
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
     conference_short: Preprint
-    conference: arXiv Preprint, 2024.
+    conference: arXiv Preprint, 2025. (Under Review)
     bibtex: ../assets/bibtex/arXiv24_Diversity.txt
     image: ../assets/img/DivkMed.png
     pdf: https://arxiv.org/pdf/2401.05502 
