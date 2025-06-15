@@ -3,7 +3,10 @@ layout: homepage
 permalink: /blog/
 ---
 
-## Hello World ...
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span><strong> <h2> Hello World ... </h2> </strong></span>
+  <span style="font-style: italic;">June 15, 2025</span>
+</div>
 
 
 {% capture included_content %}
