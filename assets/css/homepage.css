@@ -1,6 +1,6 @@
 .top-nav{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: baseline;
     margin-left: 3em;
 }
@@ -10,7 +10,7 @@
 }
 
 .top-nav > a:first-child {
-    margin-left: 0;
+    margin-left: 0em;
 }
 
 .top-nav > a:hover {
