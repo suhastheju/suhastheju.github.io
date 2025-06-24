@@ -1,14 +1,14 @@
 ################ Preprints ################################
 preprint:
   - title: Capacitated Fair-Range Clustering—Hardness and Approximation Algorithms
-    authors: Ameet Gadekar, <i>Suhas Thejaswi</i>
+    authors: Ameet Gadekar, <i>Suhas Thejaswi**</i>
+    alphabeta: true
     conference_short: Preprint
     conference: arXiv Preprint, 2025. (Under Review)
     bibtex: ../assets/bibtex/arXiv25_Capacitated.txt
     image: ../assets/img/CFRkMed.png
     pdf: https://arxiv.org/pdf/2505.15905
     type: preprint
-    alphabeta: true
 
   - title: Evaluation of Large Language Models via Coupled Token Generation
     authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <i>Suhas Thejaswi</i>, Manuel Gomez-Rodriguez
@@ -19,6 +19,7 @@ preprint:
     pdf: https://arxiv.org/pdf/2502.01754
     type: preprint
     code: https://github.com/Networks-Learning/coupled-llm-evaluation
+    poster: ../assets/posters/Coupled-Evaluation-LLMs.pdf
     workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
   - title: Diversity-Aware Clustering—Computational Complexity and Approximation Algorithms
@@ -33,7 +34,8 @@ preprint:
 ############## proceedings and journal articles #############
 published:
   - title: Fair Clustering for Data Summarization—Improved Approximation Algorithms and Complexity Insights
-    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>
+    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi**</i>
+    alphabeta: true
     conference_short: WWW
     conference: The ACM Web Conference (WebConf), 2025.
     bibtex: ../assets/bibtex/WWW25_Fair.txt
@@ -42,6 +44,7 @@ published:
     type: proceedings
     accp-rate: 20 %
     conf-rating: A*
+    poster: ../assets/posters/WebConf2025-FairkSup.pdf
     code: https://github.com/suhastheju/fair-k-supplier-source
 
   - title: Restless Reachability Problems in Temporal Graphs
@@ -64,6 +67,8 @@ published:
     accp-rate: 43.94 %
     conf-rating: Not available
     pdf: https://arxiv.org/pdf/2407.13052
+    slides: ../assets/slides/CLeaR2025-Matchings.pdf
+    code: https://github.com/Networks-Learning/counterfactually-harmless-matching
     workshop: Also appeared in KDD 2024 workshop on Ethical Artificial Intelligence
 
   - title: Controlling Counterfactual Harm in Decision Support Systems Based on Prediction Sets
@@ -79,7 +84,7 @@ published:
     code: https://github.com/Networks-Learning/controlling-counterfactual-harm-prediction-sets
     workshop: Also appeared in ICML 2024 workshop on Humans, Algorithmic Decision-Making and Society
 
-  - title: Towards Human-AI Complementarity with Predictions Sets
+  - title: Towards Human-AI Complementarity with Prediction Sets
     authors: Giovanni De Toni, Nastaran Okati, <i>Suhas Thejaswi</i>, Eleni Straitouri, Manuel Gomez-Rodriguez
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2024.
@@ -103,6 +108,7 @@ published:
     pdf: https://arxiv.org/pdf/2402.17826
     workshop: Also appeared in CHI 2024 Workshop on Human-centered Evaluation and Auditing of LMs
     code: https://github.com/Networks-Learning/prediction-powered-ranking
+    poster: ../assets/posters/NeurIPS2024-PPR-LLMs.pdf
 
   - title: Fair Column Subset Selection
     authors: Antonis Matakos, Bruno Ordozgoiti, <i>Suhas Thejaswi</i>
@@ -155,7 +161,7 @@ published:
     type: journal
     code: https://github.com/suhastheju/temporal-patterns-mk2
 
-  - title: Pattern detection in large temporal graphs using algebraic fingerprints
+  - title: Pattern Detection in Large Temporal Graphs Using Algebraic Fingerprints
     authors: <i>Suhas Thejaswi</i>, Aristides Gionis
     conference_short: SDM
     conference: SIAM International Conference on Data Mining (SDM), 2020.
@@ -168,7 +174,7 @@ published:
     code: https://github.com/suhastheju/temporal-patterns
 
   - title: Engineering Motif Search for Large Motifs
-    authors: Petteri Kaski, Juho Lauri, <i>Suhas Thejaswi</i>
+    authors: Petteri Kaski, Juho Lauri, <i>Suhas Thejaswi**</i>
     conference_short: SEA
     conference: International Symposium on Experimental Algorithms (SEA), 2018.
     publisher: Schloss Dagstuhl – Leibniz-Zentrum für Informatik
@@ -178,3 +184,4 @@ published:
     type: proceedings
     pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol103-sea2018/LIPIcs.SEA.2018.28/LIPIcs.SEA.2018.28.pdf
     code: https://github.com/suhastheju/motif-localized
+    alphabeta: true
