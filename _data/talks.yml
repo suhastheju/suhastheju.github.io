@@ -1,0 +1,51 @@
+########################## Talks ##############################
+talks:
+  - title: Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes
+    date: Aug 2025
+    location: Workshop on Ethical Aspects of Artificial Intelligence @ KDD 2025, Barcelona, Spain.
+    type: talks
+
+  - title: Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes
+    date: Jul 2025
+    location: KTH Royal Institute of Technology, Stockholm, Sweden
+    type: talks
+
+  - title: Clustering with Fair Center Representation - from Theory to Practice
+    date: Nov 2022
+    location: Max Planck Institute for Software Systems, Kaiserslautern, Germany
+    type: talks
+
+  - title: Clustering with Fair Center Representation - Parameterized Approximation Algorithms and Heuristics
+    date: Jul 2022
+    location: ACM Conference on Data Mining (KDD 2022), Washington, DC, USA
+    type: talks
+
+  - title: Finding Path motifs in Temporal Graphs using Algebraic Fingerprints
+    date: Jul 2022
+    location: Algorithmic Aspects of Temporal Graphs @ ICALP 2022, Paris, France
+    type: talks
+
+  - title: Finding Path motifs in Temporal Graphs using Algebraic Fingerprints
+    date: Oct 2021
+    location: Technical University of Berlin, Berlin, Germany
+    type: talks
+
+  - title: Parameterized Algorithms - from Theory to Practice
+    date: Jul 2021
+    location: Aalto university, Espoo, Finland
+    type: talks
+
+  - title: Diversity-aware k-median - Clustering with fair center representation
+    date: Sep 2021
+    location: European Conference on Machine Learning (ECML-PKDD 2021), Online
+    type: talks
+
+  - title: Pattern Detection in Large Temporal Graphs Using Algebraic Fingerprints
+    date: May 2020
+    location: SIAM International Conference on Data Mining (SDM 2020), Online
+    type: talks
+
+  - title: Engineering Motif Search for Large Motifs
+    date: Aug 2018
+    location: Symposium of Experimental Algorithms (SEA 2018), LaQuila, Italy
+    type: talks
