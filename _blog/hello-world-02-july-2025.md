@@ -1,6 +1,3 @@
-<details>
-<summary> Click to read more </summary>
-
 <p>
 For years, I have thought about starting a blog—a space to document day-to-day questions that wander in my mind and to reflect about things that I find interesting/relevant today and dismiss as irrelevant tomorrow. I have also wanted to jot down summaries of the books I read. But every time I consider doing it, I end up procrastinating—telling myself I will get to it after I finish this or that deadline. Of coarse, that mythical moment of being "done with deadlines" never seems to arrive. The only constant is the fact that I am never truly free. At some point, I have to admit to myself: if I keep waiting for the perfect, interruption-free time to start anything new, I will be waiting forever. So, I have decided to stop waiting—and just make time for it.
 </p>
@@ -20,4 +17,3 @@ Finally, what I write here reflects my personal opinions. Everything I write com
 
 June 15, 2025 <br>
 Helsinki, Finland
-</details>
