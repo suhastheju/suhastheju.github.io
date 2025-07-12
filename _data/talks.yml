@@ -10,12 +10,12 @@ talks:
     location: KTH Royal Institute of Technology, Stockholm, Sweden
     type: talks
 
-  - title: Clustering with Fair Center Representation - from Theory to Practice
+  - title: "Clustering with Fair Center Representation : from Theory to Practice"
     date: Nov 2022
     location: Max Planck Institute for Software Systems, Kaiserslautern, Germany
     type: talks
 
-  - title: Clustering with Fair Center Representation - Parameterized Approximation Algorithms and Heuristics
+  - title: "Clustering with Fair Center Representation : Parameterized Approximation Algorithms and Heuristics"
     date: Jul 2022
     location: ACM Conference on Data Mining (KDD 2022), Washington, DC, USA
     type: talks
@@ -30,12 +30,12 @@ talks:
     location: Technical University of Berlin, Berlin, Germany
     type: talks
 
-  - title: Parameterized Algorithms - from Theory to Practice
+  - title: "Parameterized Algorithms : from Theory to Practice"
     date: Jul 2021
     location: Aalto university, Espoo, Finland
     type: talks
 
-  - title: Diversity-aware k-median - Clustering with fair center representation
+  - title: "Diversity-aware k-median : Clustering with fair center representation"
     date: Sep 2021
     location: European Conference on Machine Learning (ECML-PKDD 2021), Online
     type: talks

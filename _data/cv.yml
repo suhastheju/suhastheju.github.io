@@ -1,0 +1,35 @@
+########################## Academic Experience ##############################
+academic:
+  - title: PostDoctoral Researcher
+    date: "Apr 2023 - present"
+    location: Max Planck Institute for Software Systems, Saarbrücken, Germany
+
+  - title: Academic Visiting Researcher
+    date: "Jun 2024 - Aug 2024"
+    location: KTH Royal Institute of Technology, Stockholm, Sweden
+
+  - title: Academic Visiting Researcher
+    date: "Jan 2023 - Oct 2024"
+    location: Aalto University, Espoo, Finland
+
+  - title: PostDoctoral Researcher
+    date: "Nov 2023 - Dec 2024"
+    location: Aalto University, Espoo, Finland
+
+########################## Awards ##############################
+awards:
+  - title: Top Reviewer Award
+    date: "May 2025"
+    location: International Conference on Machine Learning (ICML), 2025
+
+  - title: Outstanding Reviewer Award
+    date: "Mar 2025"
+    location: ACM Conference on Knowledge Discovery and Data Mining (KDD), 2025
+
+  - title: European Union Transnational Access Scholarship
+    date: "Aug 2022"
+    location: Research travel grant awarded by the SoBigData Consortium, funded by the European Union Horizon 2020 program
+
+  - title: Nokia Foundation Scholarship
+    date: "Oct 2021"
+    location: Scholarship awarded by the Nokia Foundation for doctoral studies

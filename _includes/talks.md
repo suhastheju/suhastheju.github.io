@@ -9,7 +9,7 @@
 <div class="pub-row" style="display: flex; align-items: flex-start; margin-bottom: 0em;">
     
   <!-- Left column: Date -->
-  <div style="min-width: 100px; padding-left: 40px; font-weight: bold; color: #337ab7; flex-shrink: 0;">
+  <div style="min-width: 80px; padding-left: 20px; font-weight: bold; color: #337ab7; flex-shrink: 0;">
       {{ link.date }}
   </div>
     
@@ -22,6 +22,6 @@
 </li>
 <div style="margin-top: -20px;"></div>
 {% endfor %}
-</ol>
+</ul>
 </div>
 
