@@ -1,0 +1,8 @@
+@mastersthesis{thejaswi2017scalable,
+  title={Scalable Parameterised Algorithms for two Steiner Problems},
+  author={Thejaswi, Suhas},
+  year={2017},
+  school={Aalto University},
+  type={Master's thesis},
+  address={Aalto University, School of Science, Department of Computer Science},
+}

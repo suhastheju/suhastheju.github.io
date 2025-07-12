@@ -1,6 +1,6 @@
 ################ Preprints ################################
 preprint:
-  - title: Capacitated Fair-Range Clustering—Hardness and Approximation Algorithms
+  - title: "Capacitated Fair-Range Clustering : Hardness and Approximation Algorithms"
     authors: Ameet Gadekar, <i>Suhas Thejaswi**</i>
     alphabeta: true
     conference_short: Preprint
@@ -22,7 +22,7 @@ preprint:
     poster: ../assets/posters/Coupled-Evaluation-LLMs.pdf
     workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
-  - title: Diversity-Aware Clustering—Computational Complexity and Approximation Algorithms
+  - title: "Diversity-Aware Clustering : Computational Complexity and Approximation Algorithms"
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
     conference_short: Preprint
     conference: arXiv Preprint, 2025. (Under Review)
@@ -33,7 +33,7 @@ preprint:
 
 ############## proceedings and journal articles #############
 published:
-  - title: Fair Clustering for Data Summarization—Improved Approximation Algorithms and Complexity Insights
+  - title: "Fair Clustering for Data Summarization : Improved Approximation Algorithms and Complexity Insights"
     authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi**</i>
     alphabeta: true
     conference_short: WWW
@@ -123,7 +123,15 @@ published:
     type: proceedings
     code: https://github.com/suhastheju/FairCSS
 
-  - title: Clustering with Fair-Center Representation—Parameterized Approximation Algorithms and Heuristics
+  - title: Scalable Algorithm Designs for Mining Massive Datasets
+    authors: <i>Suhas Thejaswi</i>
+    conference: PhD Thesis, Aalto University, 2022.
+    publisher: Aalto University
+    bibtex: ../assets/bibtex/PhD22_Scalable.txt
+    pdf: https://aaltodoc.aalto.fi/server/api/core/bitstreams/42b05657-ab48-4b9f-91e0-52a5778f1c1e/content
+    type: proceedings
+
+  - title: "Clustering with Fair-Center Representation : Parameterized Approximation Algorithms and Heuristics"
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Michal Osadnik
     conference_short: KDD
     conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.
@@ -133,12 +141,12 @@ published:
     pdf: https://doi.org/10.1145/3534678.3539487
     accp-rate: 15 %
     conf-rating: A*
-    notes: Featured in ACM research showcase
+    notes: Featured in ACM Kudos research showcase
     type: proceedings
     code: https://github.com/suhastheju/diversity-aware-clustering
     blogpost: https://www.growkudos.com/publications/10.1145%252F3534678.3539487/reader
 
-  - title: Diversity-Aware k-median--Clustering with Fair Center Representation
+  - title: "Diversity-Aware k-Median : Clustering with Fair Center Representation"
     authors: <i>Suhas Thejaswi</i>, Bruno Ordozgoiti, Aristides Gionis
     conference_short: ECML
     conference: Machine Learning and Knowledge Discovery in Databases (ECML), 2021.
@@ -185,3 +193,14 @@ published:
     pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol103-sea2018/LIPIcs.SEA.2018.28/LIPIcs.SEA.2018.28.pdf
     code: https://github.com/suhastheju/motif-localized
     alphabeta: true
+
+  - title: Scalable Algorithm Designs for Two Steiner Problems
+    authors: <i>Suhas Thejaswi</i>
+    conference: Master's Thesis, Aalto University, 2017.
+    publisher: Aalto University
+    bibtex: ../assets/bibtex/Masters18_Scalable.txt
+    pdf: https://aaltodoc.aalto.fi/server/api/core/bitstreams/7dbf9271-ab58-4b71-a0d9-bef4094ccfc0/content
+    type: proceedings
+    code: https://github.com/suhastheju/pace-2018-exact
+    notes: Sixth place in Parameterized Algorithms and Computational Experiments (PACE) 2018 challenge.
+

@@ -1,0 +1,8 @@
+@article{thejaswi2022scalable,
+  title={Scalable Algorithm Designs for Mining Massive Datasets},
+  author={Thejaswi, Suhas},
+  year={2022},
+  School={Aalto University},
+  type={PhD dissertation},
+  address={Aalto University, school of science, department of computer science},
+}
