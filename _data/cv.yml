@@ -16,6 +16,22 @@ academic:
     date: "Nov 2023 - Dec 2024"
     location: Aalto University, Espoo, Finland
 
+################################### Education ##############################
+education:
+  - title: Doctor of Science (Technology)
+    date: "Apr 2018 - Oct 2022"
+    location: Aalto University, Espoo, Finland
+    description: "Thesis: Scalable Algorithm Designs for Mining Massive Datasets"
+
+  - title: Master of Science (Technology)
+    date: "Aug 2014 - Jul 2017"
+    location: Aalto University, Espoo, Finland
+    description: "Thesis: Scalable Algorithm Designs for Two Steiner Problems"
+
+  - title: Bachelor of Engineering (Computer Science)
+    date: "Sep 2005 - Aug 2009"
+    location: Visvesvaraya Technological University, Belgaum, India
+
 ########################## Awards ##############################
 awards:
   - title: Top Reviewer Award
@@ -28,7 +44,7 @@ awards:
 
   - title: European Union Transnational Access Scholarship
     date: "Aug 2022"
-    location: Research travel grant awarded by the SoBigData Consortium, funded by the European Union Horizon 2020 program
+    location: Grant awarded by the SoBigData Consortium, funded by EU Horizon 2020 program
 
   - title: Nokia Foundation Scholarship
     date: "Oct 2021"
