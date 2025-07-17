@@ -7,7 +7,7 @@
 
 {% for link in site.data.publications.preprint %}
 <li>
-<div class="pub-row" style="margin-bottom: 1em;">
+<div class="pub-row" style="margin-bottom: 0.5em;">
   <div class="col-sm-9" style="position: relative;padding-right: 10px;padding-left: 10px;">
     <div class="title"> <a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title}}</a> </div>
     <div class="author">{{ link.authors }}</div>
@@ -53,7 +53,7 @@
 <h2 id="publications" style="margin: 0px 0px 15px;">Publications</h2>
 {% for link in site.data.publications.published %}
 <li>
-<div class="pub-row" style="margin-bottom: 1em;">
+<div class="pub-row" style="margin-bottom: 0.5em;">
   <div class="col-sm-9" style="position: relative;padding-right: 10px;padding-left: 10px;">
    <div class="title"><a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a> </div>
    <div class="author">{{ link.authors }}</div>
