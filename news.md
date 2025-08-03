@@ -5,6 +5,7 @@ permalink: /news/
 
 ## News
 
+- **[Aug. 2025]** Our work "Towards Human-AI Complementarity in Matching Tasks" has been accepted for both a poster presentation and a **_Spotlight Lightning Talk_** in [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}.
 - **[Jun. 2025]** I will be visiting Aalto University, Finland to attend this [symposium](https://www.aalto.fi/en/events/professor-heikki-mannilas-65th-birthday-symposium){:target="_blank"}. If you happen to be in Helsinki, feel free to reach out---I would be happy to discuss research or just to say hello!
 - **[May. 2025]** I was recognized as a **Top Reviewer** at the International Conference on Machine Learning (ICML) 2025 for my contributions to the review process!
 - **[May. 2025]** We have released a preprint of our latest work on "Capacitated Fair-Range Clustering" in [arXiv](https://arxiv.org/abs/2505.15905){:target="_blank"}! This is a joint work with [Ameet Gadekar](https://www.amitgadekar.in/){:target="_blank"}.
