@@ -35,14 +35,14 @@
       {{ link.others }}
       {% endif %}
     </div>
-    {% if link.workshop %}
-      <div class="workshop">††  {{ link.workshop }}</div>
-    {% endif %}
     {% if link.alphabeta %}
       <div class="alphabeta">** Authors listed in alphabetical order</div>
     {% endif %}
     {% if link.notes %}
       <div class="notes"> <i style ="color:#e74d3c">{{ link.notes }}</i></div>
+    {% endif %}
+    {% if link.workshop %}
+      <div class="workshop">††  {{ link.workshop }}</div>
     {% endif %}
   </div>
 </div>
@@ -96,14 +96,14 @@ style="font-size:12px;">Blog Post</a>
         {{ link.others }}
       {% endif %}
     </div>
-    {% if link.workshop %}
-      <div class="workshop">††  {{ link.workshop }}</div>
-    {% endif %}
     {% if link.alphabeta %}
       <div class="alphabeta">** Authors listed in alphabetical order</div>
     {% endif %}
     {% if link.notes %}
       <div class="notes"> <i style ="color:#e74d3c">{{ link.notes }}</i></div>
+    {% endif %}
+    {% if link.workshop %}
+      <div class="workshop">††  {{ link.workshop }}</div>
     {% endif %}
   </div>
 </div>

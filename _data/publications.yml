@@ -33,6 +33,20 @@ preprint:
 
 ############## proceedings and journal articles #############
 published:
+  - title: "Towards Human-AI Complementarity in Matching Tasks"
+    authors: Adrian Arnaiz-Rodriguez, Nina Corvelo Benz, <i>Suhas Thejaswi</i>, Nuria Oliver, Manuel Gomez-Rodriguez
+    conference_short: HLDM
+    conference: Hybrid Human-Machine Learning and Decision Making (HLDM), 2025.
+    bibtex: ../assets/bibtex/HLDM25_HumanAI.txt
+    publisher: Springer
+    type: proceedings
+    accp-rate: Not available
+    conf-rating: Not available
+    pdf: https://arxiv.org/pdf/2508.13285
+    code: https://github.com/Networks-Learning/human-AI-complementarity-matching
+    notes: Accepted as an oral presentation at HLDM 2025.
+    workshop: Also accepted for a <i>spotlight presentation</i> in AI-SDM Workshop on Human-AI Complementarity for Decision Making.
+
   - title: "Fair Clustering for Data Summarization : Improved Approximation Algorithms and Complexity Insights"
     authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi**</i>
     alphabeta: true
