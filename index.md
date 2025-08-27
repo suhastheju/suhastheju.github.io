@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">About Me</h2>
-I am a Postdoctoral Researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/){:target="_blank"}. I received my PhD in Computer Science from [Aalto University](https://www.aalto.fi/en){:target="_blank"}, Finland, where I was fortunate to be advised by [Prof. Aristides Gionis](https://www.kth.se/profile/argioni){:target="_blank"}. Prior to that, during my master’s studies, I had the opportunity to work as a research assistant at Aalto University. Before starting my master's studies, I worked as a (research) engineer at Nokia, Motorola, and Ericsson.
+I am a Postdoctoral Researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/){:target="_blank"}, Germany. I received my PhD in Computer Science from [Aalto University](https://www.aalto.fi/en){:target="_blank"}, Finland, where I was fortunate to be advised by [Prof. Aristides Gionis](https://www.kth.se/profile/argioni){:target="_blank"}. Prior to that, during my master’s studies, I had the opportunity to work as a research assistant at Aalto University. Before starting my master's studies, I worked as a (research) engineer at Nokia, Motorola, and Ericsson.
 
 <h2 style="margin-top: -0.3em; margin-bottom: 0.2em">Research Interests</h2>
 
