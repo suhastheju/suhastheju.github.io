@@ -5,6 +5,7 @@ permalink: /news/
 
 ## News
 
+- **[Aug. 2025]** I will be visiting [KTH Royal Institute of Technology](https://www.kth.se/en){:target="_blank"} in Stockholm until 20 September 2025. If you happen to be in Stockholm, feel free to reach out---I would be happy to discuss research or just to say hello!
 - **[Aug. 2025]** Our work "Towards Human-AI Complementarity in Matching Tasks" has been accepted for both a poster presentation and a **_Spotlight Lightning Talk_** in [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}.
 - **[Aug. 2025]** We have released a preprint of our work "Towards Human-AI Complementarity in Matching Tasks" on [arXiv](https://arxiv.org/pdf/2508.13285){:target="_blank"}.
 - **[Jun. 2025]** I will be visiting Aalto University, Finland to attend this [symposium](https://www.aalto.fi/en/events/professor-heikki-mannilas-65th-birthday-symposium){:target="_blank"}. If you happen to be in Helsinki, feel free to reach out---I would be happy to discuss research or just to say hello!

@@ -2,7 +2,6 @@
 layout: homepage
 ---
 
-
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">About Me</h2>
 I am a Postdoctoral Researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/){:target="_blank"}. I received my PhD in Computer Science from [Aalto University](https://www.aalto.fi/en){:target="_blank"}, Finland, where I was fortunate to be advised by [Prof. Aristides Gionis](https://www.kth.se/profile/argioni){:target="_blank"}. Prior to that, during my master’s studies, I had the opportunity to work as a research assistant at Aalto University. Before starting my master's studies, I worked as a (research) engineer at Nokia, Motorola, and Ericsson.
 
@@ -16,11 +15,9 @@ My primary research interest lies in the design of algorithms with provable theo
 - **Combinatorial Optimization:** approximation algorithms, parameterized algorithms
 - **Behavioural Psychology:** bias and (ir)rationality in human judgement
 
-
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">Recent News</h2>
 
+- **[Aug. 2025]** I will be visiting [KTH Royal Institute of Technology](https://www.kth.se/en){:target="_blank"} in Stockholm until 20 September 2025. If you happen to be in Stockholm, feel free to reach out---I would be happy to discuss research or just to say hello!
 - **[Aug. 2025]** Our work "Towards Human-AI Complementarity in Matching Tasks" has been accepted for both a poster presentation and a **_Spotlight Lightning Talk_** in [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}.
 - **[Aug. 2025]** We have released a preprint of our work "Towards Human-AI Complementarity in Matching Tasks" on [arXiv](https://arxiv.org/pdf/2508.13285){:target="_blank"}.
-- **[Jun. 2025]** I will be visiting Aalto University, Finland to attend this [symposium](https://www.aalto.fi/en/events/professor-heikki-mannilas-65th-birthday-symposium){:target="_blank"}. If you happen to be in Helsinki, feel free to reach out---I would be happy to discuss research or just to say hello!
-- **[May. 2025]** I was recognized as a **Top Reviewer** at the International Conference on Machine Learning (ICML) 2025 for my contributions to the review process!
 - <strong>[See here for older news](/news/) . . .</strong>
