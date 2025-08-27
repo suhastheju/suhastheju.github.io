@@ -18,7 +18,7 @@ permalink: /talks/
   <!-- Right column: Talk details -->
   <div class="col-sm-9" style="padding-left: 20px; padding-right: 15px;">
     <div class="title">{{ link.title }}</div>
-    <div class="location" style="margin-bottom: 0px;">{{ link.location }}</div>
+    <div class="location" style="margin-bottom: 0px; font-size: 0.95em; font-style: italic;">- {{ link.location }}</div>
     </div>
   </div>
 </li>
