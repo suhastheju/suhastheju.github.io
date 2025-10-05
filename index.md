@@ -17,7 +17,7 @@ My primary research interest lies in the design of algorithms with provable theo
 
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">Recent News</h2>
 
+- **[Sep. 2025]** I will be visiting Carnigie Mellon University from 24-26 September, 2025 to give a spotlight talk in the [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}. If you happen to be in Pittsburgh, feel free to reach out.
+- **[Sep. 2025]** I will be visting [Princeton University](https://www.princeton.edu/){:target="_blank"} on 21-23 September, 2025. If you happen to be in Princeton, feel free to reach out.
 - **[Aug. 2025]** I will be visiting [KTH Royal Institute of Technology](https://www.kth.se/en){:target="_blank"} in Stockholm until 20 September 2025. If you happen to be in Stockholm, feel free to reach out---I would be happy to discuss research or just to say hello!
 - **[Aug. 2025]** Our work "Towards Human-AI Complementarity in Matching Tasks" has been accepted for both a poster presentation and a **_Spotlight Lightning Talk_** in [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}.
-- **[Aug. 2025]** We have released a preprint of our work "Towards Human-AI Complementarity in Matching Tasks" on [arXiv](https://arxiv.org/pdf/2508.13285){:target="_blank"}.
-- <strong>[See here for older news](/news/) . . .</strong>
