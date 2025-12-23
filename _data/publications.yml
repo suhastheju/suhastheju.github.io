@@ -33,6 +33,17 @@ preprint:
 
 ############## proceedings and journal articles #############
 published:
+  - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
+    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu
+    conference_short: AAMAS
+    conference: International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.
+    bibtex: ../assets/bibtex/AAMAS2026.txt
+    publisher: ACM
+    type: proceedings
+    accp-rate: 25|40
+    conf-rating: A*
+    notes: Accepted as extended abstract.
+
   - title: "Towards Human-AI Complementarity in Matching Tasks"
     authors: Adrian Arnaiz-Rodriguez, Nina Corvelo Benz, <i>Suhas Thejaswi</i>, Nuria Oliver, Manuel Gomez-Rodriguez
     conference_short: HLDM
