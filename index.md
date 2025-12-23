@@ -17,8 +17,7 @@ My primary research interest lies in the design of algorithms with provable theo
 
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">Recent News</h2>
 
+- **[Dec. 2025]** Our paper "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information" has been accepted as an extended abstract in [International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2026]{}{:target="_blank"}. This is a joint work with Ameet Gadekar, Aristides Gionis and Sijing Tu.
 - **[Sep. 2025]** I will be visiting Carnigie Mellon University from 24-26 September, 2025 to give a spotlight talk in the [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}. If you happen to be in Pittsburgh, feel free to reach out.
-- **[Sep. 2025]** I will be visting [Princeton University](https://www.princeton.edu/){:target="_blank"} on 21-23 September, 2025. If you happen to be in Princeton, feel free to reach out.
-- **[Aug. 2025]** I will be visiting [KTH Royal Institute of Technology](https://www.kth.se/en){:target="_blank"} in Stockholm until 20 September 2025. If you happen to be in Stockholm, feel free to reach out---I would be happy to discuss research or just to say hello!
-- **[Aug. 2025]** Our work "Towards Human-AI Complementarity in Matching Tasks" has been accepted for both a poster presentation and a **_Spotlight Lightning Talk_** in [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}.
+- **[Sep. 2025]** I will be visting [Princeton University](https://www.princeton.edu/){:target="_blank"} on 21-23 September, 2025. If you are around, feel free to reach out.
 - <strong>[See here for older news](/news/) . . .</strong>

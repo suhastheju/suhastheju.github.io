@@ -40,7 +40,7 @@ published:
     bibtex: ../assets/bibtex/AAMAS2026.txt
     publisher: ACM
     type: proceedings
-    accp-rate: 25|40
+    accp-rate: 25|40 %
     conf-rating: A*
     notes: Accepted as extended abstract.
 
