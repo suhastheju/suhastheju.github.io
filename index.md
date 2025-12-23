@@ -17,7 +17,7 @@ My primary research interest lies in the design of algorithms with provable theo
 
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">Recent News</h2>
 
-- **[Dec. 2025]** Our paper "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information" has been accepted as an extended abstract in [International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2026]{}{:target="_blank"}. This is a joint work with Ameet Gadekar, Aristides Gionis and Sijing Tu.
+- **[Dec. 2025]** Our paper "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information" has been accepted as an extended abstract in [International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2026](https://cyprusconferences.org/aamas2026/){:target="_blank"}. This is a joint work with Ameet Gadekar, Aristides Gionis and Sijing Tu.
 - **[Sep. 2025]** I will be visiting Carnigie Mellon University from 24-26 September, 2025 to give a spotlight talk in the [AI-SDM Workshop on Human-AI Complementarity for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html){:target="_blank"}. If you happen to be in Pittsburgh, feel free to reach out.
 - **[Sep. 2025]** I will be visting [Princeton University](https://www.princeton.edu/){:target="_blank"} on 21-23 September, 2025. If you are around, feel free to reach out.
 - <strong>[See here for older news](/news/) . . .</strong>
