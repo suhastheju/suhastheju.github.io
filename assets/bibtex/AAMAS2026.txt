@@ -1,0 +1,8 @@
+@inproceedings{
+gadekar2025fair,
+title={Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information},
+author={Ameet Gadekar and Aristides Gionis and Suhas Thejaswi and Sijing Tu},
+booktitle={The 25th International Conference on Autonomous Agents and Multi-Agent Systems},
+year={2025},
+url={https://openreview.net/forum?id=F4OiCIoDpG}
+}

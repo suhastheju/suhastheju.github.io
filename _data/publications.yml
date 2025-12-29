@@ -36,6 +36,7 @@ published:
   - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
     authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu
     conference_short: AAMAS
+    alphabeta: true
     conference: International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.
     bibtex: ../assets/bibtex/AAMAS2026.txt
     publisher: ACM
