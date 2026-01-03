@@ -43,6 +43,7 @@ published:
     type: proceedings
     accp-rate: 25|40 %
     conf-rating: A*
+    pdf: https://arxiv.org/abs/2512.24934
     workshop: Accepted as extended abstract.
 
   - title: "Towards Human-AI Complementarity in Matching Tasks"
