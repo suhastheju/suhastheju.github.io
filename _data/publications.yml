@@ -10,17 +10,14 @@ preprint:
     pdf: https://arxiv.org/pdf/2505.15905
     type: preprint
 
-  - title: Evaluation of Large Language Models via Coupled Token Generation
-    authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <i>Suhas Thejaswi</i>, Manuel Gomez-Rodriguez
+  - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
+    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu
     conference_short: Preprint
-    conference: arXiv Preprint, 2025. (Under Review)
-    bibtex: ../assets/bibtex/arXiv25_Evaluation.txt
-    image: ../assets/img/LLM-Coupled-Token-Generation.png
-    pdf: https://arxiv.org/pdf/2502.01754
+    alphabeta: true
+    conference: arXiv Preprint, 2026.
+    bibtex: ../assets/bibtex/ArXiv2026_fair.txt
+    pdf: https://arxiv.org/abs/2512.24934
     type: preprint
-    code: https://github.com/Networks-Learning/coupled-llm-evaluation
-    poster: ../assets/posters/Coupled-Evaluation-LLMs.pdf
-    workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
   - title: "Diversity-Aware Clustering : Computational Complexity and Approximation Algorithms"
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
@@ -33,6 +30,18 @@ preprint:
 
 ############## proceedings and journal articles #############
 published:
+  - title: "Evaluation of Large Language Models via Coupled Token Generation"
+    authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <i>Suhas Thejaswi</i>, Manuel Gomez-Rodriguez
+    conference: Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026. 
+    bibtex: ../assets/bibtex/arXiv25_Evaluation.txt
+    image: ../assets/img/LLM-Coupled-Token-Generation.png
+    pdf: https://arxiv.org/pdf/2502.01754
+    accp-rate: 28 %
+    conf-rating: A
+    code: https://github.com/Networks-Learning/coupled-llm-evaluation
+    poster: ../assets/posters/Coupled-Evaluation-LLMs.pdf
+    workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
+
   - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
     authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu
     conference_short: AAMAS
