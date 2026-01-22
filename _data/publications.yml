@@ -11,7 +11,7 @@ preprint:
     type: preprint
 
   - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
-    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu
+    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu**
     conference_short: Preprint
     alphabeta: true
     conference: arXiv Preprint, 2026.
@@ -43,7 +43,7 @@ published:
     workshop: Appeared in ICLR 2025 workshop on building trust in LLMs and LLM applications.
 
   - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
-    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu
+    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu**
     conference_short: AAMAS
     alphabeta: true
     conference: International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.
