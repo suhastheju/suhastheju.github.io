@@ -1,5 +1,10 @@
 ########################## Talks ##############################
 talks:
+  - title: Towards Human-AI Complementarity in Matching Tasks
+    date: Sep 2025
+    location: Human-AI Complementarity Workshop @ Carnegie Mellon University, Pittsburgh, USA
+    type: talks
+
   - title: Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes
     date: Aug 2024
     location: Workshop on Ethical Aspects of Artificial Intelligence @ KDD 2025, Barcelona, Spain.
