@@ -3,7 +3,7 @@ layout: homepage
 permalink: /blog/
 ---
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span><strong> <h2> Attention is All I Need</h2> </strong></span>
+  <span><strong> <h2> Attention is all you need</h2> </strong></span>
   <span style="font-style: italic;">January 25, 2026</span>
 </div>
 
