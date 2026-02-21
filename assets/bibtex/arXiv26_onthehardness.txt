@@ -1,0 +1,9 @@
+@misc{thejaswi2026hardness,
+      title={On the Hardness of Approximation of the Fair k-Center Problem}, 
+      author={Suhas Thejaswi},
+      year={2026},
+      eprint={2602.16688},
+      archivePrefix={arXiv},
+      primaryClass={cs.CC},
+      url={https://arxiv.org/abs/2602.16688}, 
+}
