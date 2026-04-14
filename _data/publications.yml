@@ -27,15 +27,6 @@ preprint:
     pdf: https://arxiv.org/abs/2512.24934
     type: preprint
 
-  - title: "Diversity-Aware Clustering : Computational Complexity and Approximation Algorithms"
-    authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
-    conference_short: Preprint
-    conference: arXiv Preprint, 2025. (Under Review)
-    bibtex: ../assets/bibtex/arXiv24_Diversity.txt
-    image: ../assets/img/DivkMed.png
-    pdf: https://arxiv.org/pdf/2401.05502 
-    type: preprint
-
 ############## proceedings and journal articles #############
 published:
   - title: "Evaluation of Large Language Models via Coupled Token Generation"
@@ -100,6 +91,15 @@ published:
     type: journal
     pdf: https://arxiv.org/pdf/2010.08423 
     code: https://github.com/suhastheju/restless-reachability
+
+  - title: "Diversity-Aware Clustering : Computational Complexity and Approximation Algorithms"
+    authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
+    conference_short: Preprint
+    conference: arXiv Preprint, 2025. (Under Review)
+    bibtex: ../assets/bibtex/arXiv24_Diversity.txt
+    image: ../assets/img/DivkMed.png
+    pdf: https://arxiv.org/pdf/2401.05502 
+    type: preprint
 
   - title: Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes
     authors: Seungeon Lee, Nina Corvelo-Benz, <i>Suhas Thejaswi</i>, Manuel Gomez-Rodriguez
