@@ -18,15 +18,6 @@ preprint:
     pdf: https://arxiv.org/pdf/2505.15905
     type: preprint
 
-  - title: "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information"
-    authors: Ameet Gadekar, Aristides Gionis, <i>Suhas Thejaswi</i>, Sijing Tu**
-    conference_short: Preprint
-    alphabeta: true
-    conference: arXiv Preprint, 2026.
-    bibtex: ../assets/bibtex/ArXiv2026_fair.txt
-    pdf: https://arxiv.org/abs/2512.24934
-    type: preprint
-
 ############## proceedings and journal articles #############
 published:
   - title: "Evaluation of Large Language Models via Coupled Token Generation"
@@ -95,7 +86,7 @@ published:
   - title: "Diversity-Aware Clustering : Computational Complexity and Approximation Algorithms"
     authors: <i>Suhas Thejaswi</i>, Ameet Gadekar, Bruno Ordozgoiti, Aristides Gionis
     conference_short: Preprint
-    conference: arXiv Preprint, 2025. (Under Review)
+    conference: arXiv Preprint, 2025.
     bibtex: ../assets/bibtex/arXiv24_Diversity.txt
     image: ../assets/img/DivkMed.png
     pdf: https://arxiv.org/pdf/2401.05502 
