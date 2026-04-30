@@ -17,7 +17,7 @@ My past research has focused on designing scalable algorithms for societal chall
 - **Behavioural Psychology:** bias and (ir)rationality in human judgement
 
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">Recent News</h2>
-- **[Apr. 2026]** Our paper "Capacitated FaiRange Clustering: Hardness and Approximation Algorithms"
+- **[Apr. 2026]** Our paper "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms"
   has been accepted in International Conference on Machine Learning (ICML), 2026. This is a joint work with Ameet Gadekar.
 - **[Feb. 2026]** We have released a preprint of our paper "On the Hardness of Approximation of the Fair k-Center Problem" on [arXiv](https://arxiv.org/abs/2602.16688){:target="_blank"}. This is my first single author paper.
 - **[Jan 2026]** We have released a preprint of our paper "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information" in [arXiv](https://arxiv.org/abs/2512.24934){:target="_blank"}.
