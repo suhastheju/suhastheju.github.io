@@ -8,18 +8,18 @@ preprint:
     pdf: https://arxiv.org/abs/2602.16688
     type: preprint
 
+############## proceedings and journal articles #############
+published:
   - title: "Capacitated Fair-Range Clustering : Hardness and Approximation Algorithms"
     authors: Ameet Gadekar, <i>Suhas Thejaswi**</i>
     alphabeta: true
-    conference_short: Preprint
-    conference: arXiv Preprint, 2025. (Under Review)
+    conference: International Conference on Machine Learning (ICML), 2026.
     bibtex: ../assets/bibtex/arXiv25_Capacitated.txt
-    image: ../assets/img/CFRkMed.png
     pdf: https://arxiv.org/pdf/2505.15905
-    type: preprint
+    conf-rating: A*
+    accp-rate: 26.6 %
+    type: proceedings
 
-############## proceedings and journal articles #############
-published:
   - title: "Evaluation of Large Language Models via Coupled Token Generation"
     authors: Nina Corvelo-Benz, Stratis Tsirtsis, Eleni Straitouri, Ivi Chatzi, Ander Artola Velasco, <i>Suhas Thejaswi</i>, Manuel Gomez-Rodriguez
     conference: Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026. 
