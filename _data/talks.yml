@@ -1,5 +1,10 @@
 ########################## Talks ##############################
 talks:
+  - title: Responsible Computing
+    date: May, 2026
+    location: HICT Research Day @ University of Helsinki, Finland
+    type: talks
+
   - title: Towards Human-AI Complementarity in Matching Tasks
     date: Sep 2025
     location: Human-AI Complementarity Workshop @ Carnegie Mellon University, Pittsburgh, USA
