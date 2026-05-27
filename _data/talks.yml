@@ -1,7 +1,12 @@
 ########################## Talks ##############################
 talks:
-  - title: Responsible Computing
-    date: May, 2026
+  - title: "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms"
+    date: May 2026
+    location: Helsinki Algorithms and Theory Seminar, HIIT, Finland
+    type: talks
+
+  - title: "Responsible Computing : Bias, Fairness and Counterfactual Harm"
+    date: May 2026
     location: HICT Research Day @ University of Helsinki, Finland
     type: talks
 
