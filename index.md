@@ -21,5 +21,4 @@ My past research has focused on designing scalable algorithms for societal chall
 - **[May. 2026]** I will be giving a short talk on my research at the [HICT research day](https://www.hiit.fi/helsinki-ict-research-day){:target="_blank"} at the University of Helsinki, Kumpula Campus.
 - **[Apr. 2026]** Our paper "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms"
   has been accepted in International Conference on Machine Learning (ICML), 2026. This is a joint work with Ameet Gadekar.
-- **[Feb. 2026]** We have released a preprint of our paper "On the Hardness of Approximation of the Fair k-Center Problem" on [arXiv](https://arxiv.org/abs/2602.16688){:target="_blank"}. This is my first single author paper.
 - <strong>[See here for older news](/news/) . . .</strong>

@@ -4,6 +4,10 @@ permalink: /news/
 ---
 
 ## News
+- **[May. 2026]** I will be giving a talk on our recently accepted work to ICML, "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms" at the [Helsinki CS Theory Seminar](https://research.cs.aalto.fi/theory/seminar/seminar.html){:_target="_blank"} on 27 May 2026 at 14:15.
+- **[May. 2026]** I will be giving a short talk on my research at the [HICT research day](https://www.hiit.fi/helsinki-ict-research-day){:target="_blank"} at the University of Helsinki, Kumpula Campus.
+- **[Apr. 2026]** Our paper "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms"
+  has been accepted in International Conference on Machine Learning (ICML), 2026. This is a joint work with Ameet Gadekar.
 - **[Feb. 2026]** We have released a preprint of our paper "On the Hardness of Approximation of the Fair k-Center Problem" on [arXiv](https://arxiv.org/abs/2602.16688){:target="_blank"}. This is my first single author paper.
 - **[Jan 2026]** We have released a preprint of our paper "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information" in [arXiv](https://arxiv.org/abs/2512.24934){:target="_blank"}.
 - **[Dec. 2025]** Our paper "Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information" has been accepted as an extended abstract in [International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2026](https://cyprusconferences.org/aamas2026/){:target="_blank"}. This is a joint work with Ameet Gadekar, Aristides Gionis and Sijing Tu.
