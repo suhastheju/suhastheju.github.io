@@ -12,8 +12,6 @@ permalink: /blog/
 {% include_relative _blog/human-in-the-loop-jun-2026.md %}
 {% endcapture %}
 
-<div style="margin-bottom: -0.5em;"></div>
-
 {{ included_content | markdownify }}
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
