@@ -2,9 +2,11 @@
 layout: homepage
 permalink: /blog/
 ---
+<div style="margin-bottom: -0.5em;"></div>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span><strong> <h2> "Human-in-the-Loop" Is Not Enough for High-Stakes AI Decision-Making </h2> </strong></span>
-  <span style="font-style: italic;">June 02, 2026</span>
+  <span><strong> <h2> Attention is all you need</h2> </strong></span>
+  <span style="font-style: italic;">January 25, 2026</span>
 </div>
 
 {% capture included_content %}
