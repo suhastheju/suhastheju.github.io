@@ -8,7 +8,7 @@ permalink: /blog/
 </div>
 
 {% capture included_content %}
-{% include_relative _blog/human-in-the-loop-jun-2026.md %}
+{% include_relative _blog/instant-messaging-25-jan-2026.md %}
 {% endcapture %}
 
 <div style="margin-bottom: -0.5em;"></div>
