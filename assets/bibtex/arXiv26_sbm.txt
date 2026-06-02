@@ -1,0 +1,9 @@
+@misc{basu2026querylimitedcommunityrecoverystochastic,
+      title={Query-Limited Community Recovery in Stochastic Block Models}, 
+      author={Sabyasachi Basu and Manuj Mukherjee and Lutz Oettershagen and Suhas Thejaswi},
+      year={2026},
+      eprint={2606.02055},
+      archivePrefix={arXiv},
+      primaryClass={cs.IT},
+      url={https://arxiv.org/abs/2606.02055}, 
+}
