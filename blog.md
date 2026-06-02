@@ -4,7 +4,7 @@ permalink: /blog/
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span><strong> <h2> Why "Human-in-the-Loop" is not enough for high-stakes AI decision making</h2> </strong></span>
+  <span><strong> <h2> Why human-in-the-loop is not enough for high-stakes decision making</h2> </strong></span>
   <span style="font-style: italic;">January 25, 2026</span>
 </div>
 

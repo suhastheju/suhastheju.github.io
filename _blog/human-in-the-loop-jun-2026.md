@@ -26,7 +26,7 @@ The problem is not that human oversight is useless. In many domains, human judgm
 </p>
 
 <p>
-In other words, the AI/algorithmic system does not need to make the final decision in order to shape the final decision.
+In other words, the AI/algorithmic system does not need to make the final decision in order to influence or shape the final decision.
 </p>
 
 <h3>Decision support is also choice architecture</h3>
@@ -36,21 +36,21 @@ Work by Richard Thaler and Cass Sunstein popularized the idea of <strong>choice 
 </p>
 
 <p>
-A decision-support system is also a form of choice architecture. It may not force the human to accept its recommendation, but it structures the human's attention. It can make one option appear more credible, more urgent, more objective, or simply easier to select.
+A decision-support system is also a form of choice architecture. It may not force the human to accept its recommendation, but it structures the human's attention. It can make some options appear more credible, more reliable or simply easier to select.
 </p>
 
 <p>
-This matters because high-stakes decisions are often made under uncertainty, time pressure, incomplete information, and institutional constraints. A doctor may not have unlimited time to question every diagnostic suggestion. A judge or caseworker may face a heavy workload. A military analyst may operate under intense pressure. In such settings, an AI-generated recommendation is not merely "additional information." It can become an anchor.
+This matters because high-stakes decisions are often made under uncertainty, time pressure, incomplete information, and institutional constraints. A doctor may not have unlimited time to question every diagnostic suggestion. A judge or caseworker may face a heavy workload. A military analyst may operate under intense pressure and need to make decisions in the order of seconds. In such settings, an AI-generated recommendation is not merely "additional information." It can become an anchor.
 </p>
 
 <p>
-Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup>. These shortcuts can be useful, but they can also produce systematic errors. The point here is simple: when we give a person an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
+Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup>. These shortcuts can be useful, but they can also make us make systematic errors. The point here is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
 </p>
 
 <h3>The danger of automation bias</h3>
 
 <p>
-One risk is <strong>automation bias</strong>: the tendency to over-rely on automated systems, especially when they are usually correct. If a system is more accurate than the average human most of the time, it becomes psychologically and institutionally difficult to question it. Over time, the human may stop treating the system as one input among many and begin treating it as the default answer.
+One risk is <strong>automation bias</strong>: the tendency to over-rely on automated systems, especially when they are usually correct. If a system is more accurate than the average human most of the time, it becomes psychologically and institutionally difficult to question it. Over time, the human may stop treating the system as an input among many and begin treating it as the default answer.
 </p>
 
 <p>
@@ -62,13 +62,13 @@ This creates a paradox. The more useful and accurate a decision-support system b
 </p>
 
 <p>
-A simple analogy is search. Most people rarely look beyond the first page of search results. This does not mean they are forbidden from doing so. The option is available. But the ranking strongly shapes attention. The first page becomes, in practice, the information environment within which many users make judgments. Similarly, a decision-support system may preserve formal human authority while still strongly shaping the range of decisions that feel reasonable.
+A simple analogy is search recommendations. Most people rarely look beyond the first page of search results. This does not mean they are forbidden from doing so. The option is available. But the ranking strongly shapes our attention. The first page becomes, in practice, the information environment within which many users make judgments. Similarly, a decision-support system may preserve formal human authority while still strongly shaping the range of decisions that feel reasonable.
 </p>
 
 <h3>Formal control is not the same as meaningful control</h3>
 
 <p>
-This is why I am skeptical of policy proposals that treat "human-in-the-loop" as a sufficient safeguard. The phrase can hide several very different arrangements.
+This is why I am skeptical of policy proposals that treat "human-in-the-loop" as a sufficient safeguard. The phrase hides several very different arrangements.
 </p>
 
 <p>
@@ -89,7 +89,7 @@ For human oversight to be meaningful, the human decision-maker must be able to a
   <li>What evidence should justify overriding it?</li>
   <li>Will I be penalized for disagreeing with it?</li>
   <li>Do I have enough time, training, and information to evaluate its recommendation?</li>
-  <li>Is the system's performance known across relevant subgroups and contexts?</li>
+  <li>Is the system's performance known across most relevant contexts?</li>
   <li>Are overrides monitored only as individual deviations, or also as signals of possible system failure?</li>
 </ul>
 
@@ -163,9 +163,6 @@ A human in the loop is not enough unless the loop itself is carefully designed, 
   <li id="fn1">Richard H. Thaler and Cass R. Sunstein, <em>Nudge: Improving Decisions About Health, Wealth, and Happiness</em>, Yale University Press, 2008. <a href="#ref1">↩</a></li>
   <li id="fn2">Richard H. Thaler, Cass R. Sunstein, and John P. Balz, "Choice Architecture," 2010. <a href="#ref2">↩</a></li>
   <li id="fn3">Daniel Kahneman and Amos Tversky, "Judgment under Uncertainty: Heuristics and Biases," <em>Science</em>, 185(4157), 1124--1131, 1974. <a href="#ref3">↩</a></li>
-  <li id="fn4">Raja Parasuraman and Victor Riley, "Humans and Automation: Use, Misuse, Disuse, Abuse," <em>Human Factors</em>, 39(2), 230--253, 1997.</li>
-  <li id="fn5">Linda J. Skitka, Kathleen Mosier, and Mark Burdick, "Accountability and Automation Bias," <em>International Journal of Human-Computer Studies</em>, 52(4), 701--717, 2000.</li>
-  <li id="fn6">Rohan Khera, Michelle A. Simon, and Joseph S. Ross, "Automation Bias and Assistive AI: Risk of Harm From AI-Driven Clinical Decision Support," <em>JAMA</em>, 2023.</li>
 </ol>
 
 </details>
