@@ -1,4 +1,5 @@
-# Why "Human-in-the-Loop" Is Not Enough for High-Stakes AI Decision-Making
+<details>
+<summary> Click to read more </summary>
 
 In recent months, I have attended several talks on AI ethics, policy, and governance for automated decision-making systems. Many of these discussions focus on applications where the stakes are high: health care, law enforcement, welfare allocation, hiring, military decision support, and other settings where a wrong decision can seriously affect a person's life, as well as society more broadly.
 
@@ -14,7 +15,7 @@ The problem is not that human oversight is useless. In many domains, human judgm
 
 In other words, the AI system does not need to make the final decision in order to shape the final decision.
 
-## Decision support is also choice architecture
+### Decision support is also choice architecture
 
 Work by Richard Thaler and Cass Sunstein popularized the idea of choice architecture: the way options are presented can predictably influence what people choose. Defaults, rankings, warnings, labels, and framing effects can all guide behavior without formally removing freedom of choice. This is the central idea behind their work on nudges and decision environments [^1][^2].
 
@@ -24,7 +25,7 @@ This matters because high-stakes decisions are often made under uncertainty, tim
 
 Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring [^3]. These shortcuts can be useful, but they can also produce systematic errors. The point here is simple: when we give a person an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
 
-## The danger of automation bias
+### The danger of automation bias
 
 One risk is automation bias: the tendency to over-rely on automated systems, especially when they are usually correct. If a system is more accurate than the average human most of the time, it becomes psychologically and institutionally difficult to question it. Over time, the human may stop treating the system as one input among many and begin treating it as the default answer.
 
@@ -34,7 +35,7 @@ This creates a paradox. The more useful and accurate a decision-support system b
 
 A simple analogy is search. Most people rarely look beyond the first page of search results. This does not mean they are forbidden from doing so. The option is available. But the ranking strongly shapes attention. The first page becomes, in practice, the information environment within which many users make judgments. Similarly, a decision-support system may preserve formal human authority while still strongly shaping the range of decisions that feel reasonable.
 
-## Formal control is not the same as meaningful control
+### Formal control is not the same as meaningful control
 
 This is why I am skeptical of policy proposals that treat "human-in-the-loop" as a sufficient safeguard. The phrase can hide several very different arrangements.
 
@@ -54,7 +55,7 @@ For human oversight to be meaningful, the human decision-maker must be able to a
 
 Without answers to these questions, "human-in-the-loop" can become a comforting slogan rather than a real safeguard.
 
-## Humans can improve decisions, but only under the right conditions
+### Humans can improve decisions, but only under the right conditions
 
 The conclusion should not be that humans are always better than machines. That would also be wrong. In many settings, statistical models and automated decision-making systems can outperform unaided human judgment. The issue is not whether either humans or machines are superior in general. The issue is how the combined human-machine system behaves.
 
@@ -62,7 +63,7 @@ Sometimes, AI support may improve decisions. Sometimes, humans may correctly rej
 
 This is the central point: a human-in-the-loop system is not automatically a safer system. It is a new decision-making system, and it must be studied as such.
 
-## What should policy require instead?
+### What should policy require instead?
 
 If policymakers want to require human oversight in high-stakes AI systems, the requirement should be more specific than "put a human in the loop." A stronger policy framework would ask whether the human has genuine capacity to intervene.
 
@@ -78,7 +79,7 @@ This could include requirements such as:
 
 The key shift is to evaluate the human-AI decision process together, not just the AI model in isolation.
 
-## Where our understanding is still limited
+### Where our understanding is still limited
 
 There is still much we do not fully understand. We need better evidence about when human oversight improves outcomes and when it merely creates the appearance of accountability. We need to know how professionals in different domains respond to AI recommendations under real institutional pressures. We need to understand how expertise, training, workload, explanations, uncertainty displays, and liability rules affect the willingness and ability to override automated suggestions.
 
@@ -90,13 +91,13 @@ So yes, humans should often remain involved in high-stakes decisions. But we sho
 
 A human in the loop is not enough unless the loop itself is carefully designed, tested, and governed.
 
-## References
+### References
 
 [^1]: Richard H. Thaler and Cass R. Sunstein, Nudge: Improving Decisions About Health, Wealth, and Happiness, Yale University Press, 2008.
 
 [^2]: Richard H. Thaler, Cass R. Sunstein, and John P. Balz, "Choice Architecture," 2010.
 
-[^3]: Daniel Kahneman and Amos Tversky, "Judgment under Uncertainty: Heuristics and Biases," Science, 185(4157), 1124--1131, 1974. Available at: https://www.science.org/doi/10.1126/science.185.4157.1124
+[^3]: Daniel Kahneman and Amos Tversky, "Judgment under Uncertainty: Heuristics and Biases," Science, 185(4157), 1124--1131, 1974.
 
 [^4]: Raja Parasuraman and Victor Riley, "Humans and Automation: Use, Misuse, Disuse, Abuse," Human Factors, 39(2), 230--253, 1997.
 
