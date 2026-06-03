@@ -5,7 +5,7 @@ permalink: /blog/
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <span><strong> <h2> Why human-in-the-loop is not enough for high-stakes decision making</h2> </strong></span>
-  <span style="font-style: italic;">January 25, 2026</span>
+  <span style="font-style: italic;">June 02, 2026</span>
 </div>
 
 {% capture included_content %}
