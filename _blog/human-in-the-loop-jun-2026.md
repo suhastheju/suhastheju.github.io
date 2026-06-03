@@ -44,7 +44,7 @@ This matters because high-stakes decisions are often made under uncertainty, tim
 </p>
 
 <p>
-Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup> <sup><a href="#fn4" id="ref4">4</a></sup>. These shortcuts can be useful, but they can also make us make systematic errors that are predictably irrational. The point is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
+Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup> <sup><a href="#fn4" id="ref4">4</a></sup>. These shortcuts can be useful, but they can also prompt us make systematic errors that are predictably irrational. The point is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
 </p>
 
 <h3>The danger of automation bias</h3>
