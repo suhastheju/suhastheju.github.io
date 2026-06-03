@@ -100,7 +100,7 @@ Without answers to these questions, "human-in-the-loop" can become a comforting 
 <h3>Humans can improve decisions, but only under the right conditions</h3>
 
 <p>
-The conclusion should not be that humans are always better than machines. That would also be wrong. In many settings, statistical models and automated decision-making systems can outperform unaided human judgment. The issue is not whether either humans or machines are superior in general. The issue is how the combined human-machine system behaves.
+The conclusion should not be that humans are always better than machines. That would also be wrong. In many settings, statistical models and automated decision-making systems can outperform unaided human judgment. Indeed, one motivation for introducing automated decision-making systems is that human decisions are often affected by biases, inconsistency, and seemingly irrelevant factors. Kahneman, Sibony, and Sunstein discuss this problem in Noise, where they argue how judgments can vary substantially across decision-makers even when they are evaluating similar cases<sup><a href="#fn4" id="ref4">3</a></sup>. The issue, therefore, is not whether humans or machines are superior in general. The more important question is how the combined human-machine decision-making system behaves.
 </p>
 
 <p>
@@ -163,6 +163,7 @@ A human-in-the-loop is not enough unless the loop itself is carefully designed, 
   <li id="fn1">Richard H. Thaler and Cass R. Sunstein, <em>Nudge: Improving Decisions About Health, Wealth, and Happiness</em>, Yale University Press, 2008. <a href="#ref1">↩</a></li>
   <li id="fn2">Richard H. Thaler, Cass R. Sunstein, and John P. Balz, "Choice Architecture," 2010. <a href="#ref2">↩</a></li>
   <li id="fn3">Daniel Kahneman and Amos Tversky, "Judgment under Uncertainty: Heuristics and Biases," <em>Science</em>, 185(4157), 1124--1131, 1974. <a href="#ref3">↩</a></li>
+  <li id="fn4">Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein, <em>Noise: A Flaw in Human Judgment</em>, Little, Brown Spark, 2021. <a href="#ref4">↩</a></li>
 </ol>
 
 </details>
