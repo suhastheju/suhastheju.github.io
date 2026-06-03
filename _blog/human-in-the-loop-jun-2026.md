@@ -44,7 +44,7 @@ This matters because high-stakes decisions are often made under uncertainty, tim
 </p>
 
 <p>
-Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup>. These shortcuts can be useful, but they can also make us make systematic errors. The point here is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
+Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup>. These shortcuts can be useful, but they can also make us make systematic errors that are predictably irrational. The point is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
 </p>
 
 <h3>The danger of automation bias</h3>
@@ -58,11 +58,11 @@ This is especially dangerous because many AI systems fail unevenly. They may per
 </p>
 
 <p>
-This creates a paradox. The more useful and accurate a decision-support system becomes in ordinary cases, the harder it may become for humans to detect the exceptional cases where they should resist it.
+This creates a paradox. The more useful and accurate a decision-support system becomes in ordinary cases, the harder it may become for humans to detect the exceptional cases where they should resist the advice from these systems.
 </p>
 
 <p>
-A simple analogy is search recommendations. Most people rarely look beyond the first page of search results. This does not mean they are forbidden from doing so. The option is available. But the ranking strongly shapes our attention. The first page becomes, in practice, the information environment within which many users make judgments. Similarly, a decision-support system may preserve formal human authority while still strongly shaping the range of decisions that feel reasonable.
+A simple analogy is search recommendations. Most people rarely look beyond the first page of search results. This does not mean they are forbidden from doing so. The option is available. But the ranking strongly shapes our attention. The first page (or sometimes even the top results) becomes, in practice, the information environment within which many users make judgments and take decisions. Similarly, a decision-support system may preserve formal human authority while still strongly shaping the range of decisions that feel reasonable.
 </p>
 
 <h3>Formal control is not the same as meaningful control</h3>
@@ -154,7 +154,7 @@ So yes, humans should often remain involved in high-stakes decisions. But we sho
 </p>
 
 <p>
-A human in the loop is not enough unless the loop itself is carefully designed, tested, and governed.
+A human-in-the-loop is not enough unless the loop itself is carefully designed, tested, and governed.
 </p>
 
 <h3>References</h3>
