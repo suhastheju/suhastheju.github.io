@@ -32,7 +32,7 @@ In other words, the AI/algorithmic system does not need to make the final decisi
 <h3>Decision support is also choice architecture</h3>
 
 <p>
-Work by Richard Thaler and Cass Sunstein popularized the idea of <strong>choice architecture</strong>: the way options are presented can predictably influence what people choose. Defaults, rankings, warnings, labels, and framing effects can all guide behavior without formally removing freedom of choice. This is the central idea behind their work on nudges and decision environments <sup><a href="#fn1" id="ref1">1</a></sup><sup><a href="#fn2" id="ref2">2</a></sup>.
+Work by Richard Thaler and Cass Sunstein popularized the idea of <strong>choice architecture</strong>: the way options are presented can predictably influence what people choose. Defaults, rankings, warnings, labels, and framing effects can all guide behavior without formally removing freedom of choice. This is the central idea behind their work on nudges and decision environments <sup><a href="#fn1" id="ref1">1</a></sup> <sup><a href="#fn2" id="ref2">2</a></sup>.
 </p>
 
 <p>
@@ -44,7 +44,7 @@ This matters because high-stakes decisions are often made under uncertainty, tim
 </p>
 
 <p>
-Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup>. These shortcuts can be useful, but they can also make us make systematic errors that are predictably irrational. The point is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
+Research in judgment and decision-making has long shown that humans rely on heuristics when reasoning under uncertainty. Daniel Kahneman and Amos Tversky argued that people often use mental shortcuts such as representativeness, availability, and anchoring <sup><a href="#fn3" id="ref3">3</a></sup> <sup><a href="#fn4" id="ref4">3</a></sup>. These shortcuts can be useful, but they can also make us make systematic errors that are predictably irrational. The point is, when we give a human an AI recommendation, we are not adding information to a neutral decision-maker. We are adding information to a human decision-maker with limited attention, limited time, and predictable cognitive vulnerabilities.
 </p>
 
 <h3>The danger of automation bias</h3>
@@ -100,7 +100,7 @@ Without answers to these questions, "human-in-the-loop" can become a comforting 
 <h3>Humans can improve decisions, but only under the right conditions</h3>
 
 <p>
-The conclusion should not be that humans are always better than machines. That would also be wrong. In many settings, statistical models and automated decision-making systems can outperform unaided human judgment. Indeed, one motivation for introducing automated decision-making systems is that human decisions are often affected by biases, inconsistency, and seemingly irrelevant factors. Kahneman, Sibony, and Sunstein discuss this problem in Noise, where they argue how judgments can vary substantially across decision-makers even when they are evaluating similar cases<sup><a href="#fn4" id="ref4">3</a></sup>. The issue, therefore, is not whether humans or machines are superior in general. The more important question is how the combined human-machine decision-making system behaves.
+The conclusion should not be that humans are always better than machines. That would also be wrong. In many settings, statistical models and automated decision-making systems can outperform unaided human judgment. Indeed, one motivation for introducing automated decision-making systems is that human decisions are often affected by biases, inconsistency, and seemingly irrelevant factors. Kahneman, Sibony, and Sunstein discuss this problem in Noise, where they argue how judgments can vary substantially across decision-makers even when they are evaluating similar cases<sup><a href="#fn5" id="ref5">3</a></sup>. The issue, therefore, is not whether humans or machines are superior in general. The more important question is how the combined human-machine decision-making system behaves.
 </p>
 
 <p>
@@ -163,7 +163,8 @@ A human-in-the-loop is not enough unless the loop itself is carefully designed, 
   <li id="fn1">Richard H. Thaler and Cass R. Sunstein, <em>Nudge: Improving Decisions About Health, Wealth, and Happiness</em>, Yale University Press, 2008. <a href="#ref1">↩</a></li>
   <li id="fn2">Richard H. Thaler, Cass R. Sunstein, and John P. Balz, "Choice Architecture," 2010. <a href="#ref2">↩</a></li>
   <li id="fn3">Daniel Kahneman and Amos Tversky, "Judgment under Uncertainty: Heuristics and Biases," <em>Science</em>, 185(4157), 1124--1131, 1974. <a href="#ref3">↩</a></li>
-  <li id="fn4">Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein, <em>Noise: A Flaw in Human Judgment</em>, Little, Brown Spark, 2021. <a href="#ref4">↩</a></li>
+  <li id="fn4">Daniel Kahneman, <em>Thinking, Fast and Slow</em>, Farrar, Straus and Giroux, 2011. <a href="#ref4">↩</a></li>
+  <li id="fn5">Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein, <em>Noise: A Flaw in Human Judgment</em>, Little, Brown Spark, 2021. <a href="#ref5">↩</a></li>
 </ol>
 
 </details>
