@@ -1,5 +1,13 @@
 ################ Preprints ################################
 preprint:
+  - title: "Linguistic Monoculture in LLM-Assisted Language Use"
+    authors:  <i>Suhas Thejaswi</i>, Juhi Kulshreshta, Lutz Oettershagen,
+    conference_short: Preprint
+    conference: arXiv Preprint, 2026. (Under Review)
+    bibtex: ../assets/bibtex/arXiv26_llmmonoculture.txt
+    pdf: https://arxiv.org/abs/2607.27134
+    type: preprint
+
   - title: "Query-Limited Community Recovery in Stochastic Block Models "
     authors: Sabyasachi Basu, Manuj Mukherjee, Lutz Oettershagen, <i>Suhas Thejaswi**</i>
     alphabeta: true

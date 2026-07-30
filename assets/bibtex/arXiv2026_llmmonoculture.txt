@@ -1,0 +1,9 @@
+@misc{thejaswi2026linguistic,
+      title={Linguistic Monoculture in LLM-Assisted Language Use}, 
+      author={Suhas Thejaswi and Juhi Kulshreshta and Lutz Oettershagen},
+      year={2026},
+      eprint={2607.27134},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.27134}, 
+}

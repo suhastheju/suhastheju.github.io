@@ -4,6 +4,8 @@ permalink: /news/
 ---
 
 ## News
+- **[Jul. 2026]** We have released preprint of our latest work on "Linguistic Monoculture in LLM-Assisted Language Use" in [arXiv](https://arxiv.org/abs/2607.27134){:_target="_blank"}. This is a joint work with [Juhi Kulshreshta](https://css.aalto.fi/people/juhi/){:_target="_blank"} and [Lutz Oettershagen](https://lutzoe.github.io/){:_target="_blank"}. 
+- **[Jun. 2026]** We have released preprint of our latest work "Query-Limited Community Recovery in Stochastic Block Models" in [arXiv](https://arxiv.org/abs/2606.02055){:_target="_blank"}. This is a joint work with Sabyasachi Basu, Manuj Mukherjee and Lutz Oettershagen.
 - **[May. 2026]** I will be giving a talk on our recently accepted work to ICML, "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms" at the [Helsinki CS Theory Seminar](https://research.cs.aalto.fi/theory/seminar/seminar.html){:_target="_blank"} on 27 May 2026 at 14:15.
 - **[May. 2026]** I will be giving a short talk on my research at the [HICT research day](https://www.hiit.fi/helsinki-ict-research-day){:target="_blank"} at the University of Helsinki, Kumpula Campus.
 - **[Apr. 2026]** Our paper "Capacitated Fair-Range Clustering: Hardness and Approximation Algorithms"
