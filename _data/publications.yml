@@ -17,16 +17,17 @@ preprint:
     pdf: https://arxiv.org/abs/2606.02055
     type: preprint
 
-  - title: "On the Hardness of Approximation of the Fair k-Center Problem"
-    authors: Suhas Thejaswi
-    conference_short: Preprint
-    conference: arXiv Preprint, 2026. (Under Review)
-    bibtex: ../assets/bibtex/arXiv26_onthehardness.txt
-    pdf: https://arxiv.org/abs/2602.16688
-    type: preprint
-
 ############## proceedings and journal articles #############
 published:
+  - title: "On the Hardness of Approximation of the Fair k-Center Problem"
+    authors: <i>Suhas Thejaswi</i>
+    conference_short: I&C
+    conference: Information and Computation, 2026. (Accepted for publication)
+    bibtex: ../assets/bibtex/arXiv26_onthehardness.txt
+    pdf: https://arxiv.org/abs/2602.16688
+    impact-factor: 1.0
+    type: journal
+
   - title: "Capacitated Fair-Range Clustering : Hardness and Approximation Algorithms"
     authors: Ameet Gadekar, <i>Suhas Thejaswi**</i>
     alphabeta: true
@@ -255,4 +256,3 @@ published:
     type: proceedings
     code: https://github.com/suhastheju/pace-2018-exact
     notes: Sixth place in Parameterized Algorithms and Computational Experiments (PACE) 2018 challenge.
-
