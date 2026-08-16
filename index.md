@@ -17,7 +17,7 @@ My past research has focused on designing scalable algorithms for societal chall
 - **Behavioural Psychology:** bias and (ir)rationality in human judgement
 
 <h2 style="margin-top: -0.5em; margin-bottom: 0.2em">Recent News</h2>
-- **[Aug. 2026]** My paper "On the Hardness of Approximation of the Fair k-Center Problem" has been accepted for publication in [Information and Computation](https://www.sciencedirect.com/journal/information-and-computation){:target="_blank"}.
+- **[Aug. 2026]** My paper "On the Hardness of Approximation of the Fair k-Center Problem" has been accepted for publication in [Information and Computation](https://www.sciencedirect.com/science/article/pii/S0890540126001008){:target="_blank"}.
 - **[Jul. 2026]** We have released preprint of our latest work on "Linguistic Monoculture in LLM-Assisted Language Use" in [arXiv](https://arxiv.org/abs/2607.27134){:_target="_blank"}. This is a joint work with [Juhi Kulshreshta](https://css.aalto.fi/people/juhi/){:_target="_blank"} and [Lutz Oettershagen](https://lutzoe.github.io/){:_target="_blank"}. 
 - **[Jun. 2026]** We have released preprint of our latest work "Query-Limited Community Recovery in Stochastic Block Models" in [arXiv](https://arxiv.org/abs/2606.02055){:_target="_blank"}. This is a joint work with Sabyasachi Basu, Manuj Mukherjee and Lutz Oettershagen.
 - **[May. 2026]** I will be giving a short talk on my research at the [HICT research day](https://www.hiit.fi/helsinki-ict-research-day){:target="_blank"} at the University of Helsinki, Kumpula Campus.
