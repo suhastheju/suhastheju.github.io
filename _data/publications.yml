@@ -23,8 +23,8 @@ published:
     authors: <i>Suhas Thejaswi</i>
     conference_short: I&C
     conference: Information and Computation, 2026. (Accepted for publication)
-    bibtex: ../assets/bibtex/arXiv26_onthehardness.txt
-    pdf: https://arxiv.org/abs/2602.16688
+    bibtex: ../assets/bibtex/IC26_onthehardness.txt
+    pdf: https://www.sciencedirect.com/science/article/pii/S0890540126001008
     impact-factor: 1.0
     type: journal
 
