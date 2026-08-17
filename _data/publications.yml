@@ -22,7 +22,7 @@ published:
   - title: "On the Hardness of Approximation of the Fair k-Center Problem"
     authors: <i>Suhas Thejaswi</i>
     conference_short: I&C
-    conference: Information and Computation, 2026. (Accepted for publication)
+    conference: Information and Computation, 2026. (Accepted)
     bibtex: ../assets/bibtex/IC26_onthehardness.txt
     pdf: https://www.sciencedirect.com/science/article/pii/S0890540126001008
     impact-factor: 1.0
